@@ -6,7 +6,7 @@
 **File Output Bersih:** `sales_clean.csv`  
 **File Output Refund:** `refunds.csv`  
 **File Arsip Dropped Nagih:** `dropped_nagih.csv`  
-**Tanggal Eksekusi:** 2026-11-07 20:02:17  
+**Tanggal Eksekusi:** 2026-11-07 20:19:51  
 
 ---
 
@@ -15,7 +15,7 @@
 | Metrik | Sebelum Cleaning (Raw) | Dropped (Nagih) | Sesudah Cleaning (Final) | Perubahan Bersih |
 |---|---|---|---|---|
 | **Jumlah Baris** | 64,327 | 392 | 61,431 | -2,896 (392 Nagih + 2,504 duplikat) |
-| **Jumlah Kolom** | 25 | 26 | 31 | +6 kolom (eliminasi redundan & fitur waktu baru) |
+| **Jumlah Kolom** | 25 | 26 | 26 | +1 kolom (eliminasi 10 kolom redundan/kosong + fitur analitis baru) |
 | **Total Gross Sales** | Rp 579,298,500.00 | Rp 1,621,000.00 | Rp 577,677,500.00 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Total Net Sales** | Rp 545,722,042.59 | Rp 1,393,000.07 | Rp 544,329,042.52 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Net Sales (Payment)** | Rp 547,304,501.85 | Rp 1,456,000.07 | Rp 545,848,501.78 | **SAMA PERSIS (Selisih Rp 0.00)** |
@@ -23,18 +23,22 @@
 
 ---
 
-## 2. Keputusan Bisnis: Pembuangan "0-Nagih" & Penghapusan Kolom Redundan "Item_Flag"
+## 2. Keputusan Bisnis: Pembuangan "0-Nagih" & Eliminasi Kolom Redundan
 
 1. **Pembuangan Seluruh Struk Kategori "0-Nagih"**:
    - Berdasarkan keputusan Owner, seluruh transaksi kasir yang berkaitan dengan piutang bertanda kategori **"0-Nagih"** diabaikan dari pembukuan omzet operasional warung dan tidak dimasukkan ke dalam model prediksi stok bahan baku.
    - Sebanyak **98 struk** (392 baris: 382 baris kategori `0-Nagih` dan 10 baris menu reguler yang tercatat di struk yang sama) telah dikeluarkan.
    - Seluruh baris yang dikeluarkan tersimpan secara transparan di berkas arsip `dropped_nagih.csv` (Gross: Rp 1,621,000.00, Net: Rp 1,393,000.07) untuk keperluan audit kasir (*no silent drops*).
 
-2. **Penghapusan Kolom Redundan `Item_Flag`**:
-   - Kolom `Item_Flag` (yang sebelumnya memetakan *Penagihan*, *Bundle*, dan *Custom Amount*) **resmi dihapus**.
-   - Setelah kategori Nagih dibuang, data sudah 99.81% murni menu reguler (`Normal`). Kategori khusus yang tersisa (`Bundle_Package` dan `Uncategorized`) sudah terwakili secara alami oleh kolom bawaan `Category` tanpa perlu kolom flag tambahan.
+2. **Penghapusan Kolom Redundan `Date` dan `Time`**:
+   - Kolom `Date` dan `Time` **resmi dihapus** karena seluruh informasi tanggal, jam, menit, dan detik telah disatukan secara presisi ke dalam kolom tunggal bertipe `datetime64` (**`Datetime`**).
+   - Fitur waktu analitis yang dibutuhkan untuk eksplorasi data (`Year_Month`, `Day_Name`, `Hour`, `Is_Weekend`) telah diekstrak langsung dari `Datetime`, sehingga keberadaan kolom `Date` dan `Time` menjadi redundan.
 
-3. **Perlindungan Privasi Pelanggan**:
+3. **Penghapusan Kolom Redundan `Item_Flag`**:
+   - Kolom `Item_Flag` (yang sebelumnya memetakan *Penagihan*, *Bundle*, dan *Custom Amount*) **resmi dihapus**.
+   - Kategori menu sudah $100\%$ bersih dan diwakili secara alami oleh kolom bawaan `Category` (`Bakso`, `Mie`, `Gorengan`, `Minuman`, `Bundle_Package`, `Uncategorized`) tanpa redundansi data.
+
+4. **Perlindungan Privasi Pelanggan**:
    - Nomor handphone pelanggan pada kolom **`Customer` tetap dipertahankan asli** sesuai input kasir tanpa hashing.
 
 ---
@@ -44,6 +48,8 @@
 ### A. Kolom yang Dihapus:
 | Nama Kolom | Status / Karakteristik | Alasan Penghapusan |
 |---|---|---|
+| `Date` | Redundan dengan `Datetime` | Informasi tanggal sudah tersimpan lengkap di kolom `Datetime` dan fitur `Year_Month`/`Day_Name`. |
+| `Time` | Redundan dengan `Datetime` | Informasi jam sudah tersimpan lengkap di kolom `Datetime` dan fitur `Hour`. |
 | `Outlet` | Nilai konstan 100% | Hanya berisi 'Lintang Bakso Ketintang', tidak memiliki variansi informasi. |
 | `Gratuity` | 100% bernilai 0 | Warung tidak menerapkan kebijakan tip kasir. |
 | `Tax` | 100% bernilai 0 | Pajak restoran belum dipungut/diterapkan di sistem kasir. |
@@ -100,7 +106,7 @@
 1. **Konsistensi Formula Finansial**:
    - `Net Sales == Gross Sales - Discounts - Refunds`: **LOLOS** di 100% baris (toleransi selisih <= 0.5).
 2. **Integritas Kolom Inti**:
-   - Kolom `Date`, `Time`, `Category`, `Items`, `Quantity`, `Gross Sales`, dan `Net Sales` memiliki 0 missing values (**100% lengkap**).
+   - Kolom `Datetime`, `Category`, `Items`, `Quantity`, `Gross Sales`, dan `Net Sales` memiliki 0 missing values (**100% lengkap**).
 3. **Pembersihan Whitespace**:
    - Seluruh kolom teks telah dibersihkan dari spasi liar di awal dan akhir teks.
 4. **Keutuhan Finansial & Rekonsiliasi**:
