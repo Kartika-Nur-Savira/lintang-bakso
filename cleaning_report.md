@@ -3,10 +3,10 @@
 **Kasus Bisnis:** Warung Bakso Lintang (Ketintang, Surabaya)  
 **Dokumen Acuan:** [PRD.md](PRD.md) v1.1 - Sistem Prediksi Stok & Business Intelligence  
 **File Input Mentah:** `sales_report.csv` (64,327 baris x 25 kolom)  
-**File Output Bersih:** `sales_clean.csv` (61,431 baris x 26 kolom)  
+**File Output Bersih:** `sales_clean.csv` (61,431 baris x 27 kolom)  
 **File Output Refund:** `refunds.csv` (149 baris)  
 **File Arsip Dropped Nagih:** `dropped_nagih.csv` (392 baris)  
-**Tanggal Eksekusi:** 2026-11-07 20:29:37  
+**Tanggal Eksekusi:** 2026-11-08 20:39:09  
 
 ---
 
@@ -15,7 +15,7 @@
 | Metrik | Data Awal (Raw) | Dikeluarkan (Nagih) | Data Bersih (Final) | Status Rekonsiliasi |
 |---|---|---|---|---|
 | **Jumlah Baris** | 64,327 | 392 | 61,431 | -2,896 baris (392 Nagih + 2,504 duplikat) |
-| **Jumlah Kolom** | 25 | 26 | 26 | +1 kolom (8 kolom dibuang, 9 fitur baru/standar) |
+| **Jumlah Kolom** | 25 | - | 27 | +2 kolom (10 kolom dibuang, 12 fitur baru/standar) |
 | **Total Gross Sales** | Rp 579,298,500.00 | Rp 1,621,000.00 | Rp 577,677,500.00 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Total Net Sales** | Rp 545,722,042.59 | Rp 1,393,000.07 | Rp 544,329,042.52 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Net Sales (Payment)** | Rp 547,304,501.85 | Rp 1,456,000.07 | Rp 545,848,501.78 | **SAMA PERSIS (Selisih Rp 0.00)** |
@@ -33,52 +33,52 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 - **Alasan:** Format timestamp presisi dibutuhkan sebagai dasar urutan deret waktu pada model peramalan kebutuhan bahan baku dapur ([PRD.md](PRD.md) FR-04), dan mempermudah analisis pola operasional jam sibuk tanpa redundansi data.
 - **Hasil:** 1 kolom timestamp presisi (`Datetime`) dan 4 fitur waktu siap pakai untuk eksplorasi tren bisnis.
 
-### B. Transaksi Kategori "0-Nagih" (Piutang Kasir)
+### B. Transaksi Kategori "0-Nagih" (Uji Coba Penjualan Warkop)
 - **Kondisi Awal:** Terdapat 98 nomor struk kasir yang memuat item berkategori `0-Nagih` (382 baris menu Nagih seperti '0-Somay', '0-Kecil', dan 10 baris menu bakso reguler yang tercatat pada struk yang sama).
 - **Penanganan:** Mengidentifikasi seluruh `Receipt Number` yang mengandung `0-Nagih`, membuang seluruh baris dari struk tersebut, dan menyimpannya ke berkas arsip `dropped_nagih.csv`.
+<<<<<<< HEAD
 - **Alasan:** Berdasarkan arahan Owner, transaksi ini bukan penjualan makanan/minuman operasional warung, melainkan pencatatan uji coba usaha di warkop dan berdasar arahan dari owner untuk transaksi itu diabaikan saja.
+=======
+- **Alasan:** Kategori 0-Nagih adalah uji coba penjualan di warkop (21 Feb-13 Mar 2026) yang tidak dilanjutkan, berdasarkan konfirmasi Owner. Karena bukan penjualan operasional warung, seluruh struk terkait dikeluarkan dan diarsipkan di dropped_nagih.csv. Awalan struk 9XT (kasir Reny Komar) dan 8AA (kasir Insan Admin) adalah bagian dari uji coba ini.
+>>>>>>> 94d3fce (cleaning dataset)
 - **Hasil:** Sebanyak 392 baris (98 struk) berhasil dikeluarkan dan diarsipkan lengkap (Gross: Rp 1,621,000.00, Net: Rp 1,393,000.07). Awalan struk `9XT` (kasir `Reny Komar`) dan `8AA` (kasir `Insan Admin`) otomatis bersih dari data final.
 
 ### C. Kolom Tidak Berguna, Redundan, dan Kosong
-- **Kondisi Awal:** Terdapat 8 kolom yang tidak memberikan nilai analitis atau 100% bernilai kosong dari sistem kasir.
-- **Penanganan:** Menghapus 8 kolom tersebut dari dataset (`Outlet`, `Gratuity`, `Tax`, `Collected By`, `Brand`, `Variant`, `SKU`, `Served By`).
-- **Alasan:**
-  - `Outlet`: Bernilai konstan 100% ('Lintang Bakso Ketintang').
-  - `Gratuity` & `Tax`: 100% bernilai 0 (tidak ada tip dan belum menerapkan pajak restoran).
-  - `Collected By`: >99% dilayani oleh kasir yang sama ('Risa Yan').
-  - `Brand`: Redundan dengan kolom `Category` ('Unbranded' / 'Aice').
-  - `Variant`, `SKU`, `Served By`: 100% bernilai kosong (NaN) di seluruh baris.
-- **Hasil:** Dataset menjadi ringkas dan hemat memori tanpa menghilangkan informasi esensial apa pun.
+- **Kondisi Awal:** Terdapat 10 kolom yang tidak memberikan nilai analitis atau 100% bernilai kosong dari sistem kasir (`Outlet`, `Gratuity`, `Tax`, `Collected By`, `Brand`, `Date`, `Time`, `Variant`, `SKU`, `Served By`).
+- **Penanganan:** Menghapus seluruh 10 kolom tersebut dari DataFrame (`df.drop(columns=drop_cols)`).
+- **Alasan:** Kolom kosong dan konstanta tidak menambah variansi informasi, sedangkan kolom `Date` dan `Time` telah diwakili secara lebih akurat dan terintegrasi oleh kolom tunggal `Datetime`.
+- **Hasil:** Struktur tabel lebih ramping dan efisien, menghemat penggunaan memori tanpa kehilangan informasi analitis penting.
 
-### D. Baris Transaksi Refund (`Event Type == "Refund"`)
-- **Kondisi Awal:** Terdapat 149 baris pengembalian dana riil dengan format kolom `Items` tercampur teks sistem ('Full Refund for: <struk> - <nama item>').
-- **Penanganan:** Menambahkan penanda boolean `Is_Refund = True`, mengekstrak tipe refund ke `Refund_Type` ('Full' atau 'Partial'), membersihkan teks di kolom `Items` sehingga kembali ke nama menu aslinya, serta menyalin riwayatnya ke `refunds.csv`.
-- **Alasan:** Transaksi refund adalah pengurang omzet yang sah secara pembukuan kasir (nilai Quantity dan Net Sales negatif memang fakta riil refund), sehingga tidak boleh dihapus melainkan harus diaudit secara jelas.
-- **Hasil:** 149 baris refund tersimpan rapi dan terstandarisasi di `refunds.csv` (Total Net Refund: Rp -1,519,459.26), dan nama menu aslinya dapat dianalisis.
+### D. Pemisahan dan Standarisasi Transaksi Refund
+- **Kondisi Awal:** Terdapat transaksi refund (149 baris sebelum agregasi) yang tercampur di dalam aliran transaksi pembayaran reguler.
+- **Penanganan:** Menandai baris refund (`Is_Refund = True`), mengekstrak tipe refund (`Refund_Type` = 'Full' / 'Partial' / 'Tidak Ada') dan nama item asli, memetakan alasan refund ke kategori baku, serta mengekspor data audit refund ke `refunds.csv` sebelum agregasi.
+- **Alasan:** Menjaga riwayat audit kasir tetap utuh dan transparan sebelum baris agregasi disatukan.
+- **Hasil:** Berkas `refunds.csv` tersimpan rapi (149 baris, Net Sales: Rp -1,519,459.26).
+*Catatan: File `refunds.csv` (sebelum agregasi) berisi 149 baris, sedangkan baris refund di `sales_clean.csv` (sesudah agregasi) berisi 137 baris; perbedaan ini wajar karena adanya penggabungan baris refund dengan atribut identik dalam satu struk.*
 
-### E. Transaksi Duplikat Identik dalam Satu Struk
-- **Kondisi Awal:** Ditemukan 4.520 baris transaksi (2.504 baris berlebih) yang memiliki kesamaan nilai identik pada seluruh kolom identitas di dalam nomor struk yang sama.
-- **Penanganan:** Melakukan agregasi (group by seluruh kolom non-metrik, lalu menjumlahkan kolom numerik `Quantity`, `Gross Sales`, `Discounts`, `Refunds`, dan `Net Sales`), serta menambahkan kolom `Merged_Row_Count`.
-- **Alasan:** Duplikasi dalam satu nomor struk bukan kesalahan sistem, melainkan pemesanan menu yang sama secara bertahap (*batch ordering*) oleh meja pelanggan. Jika dihapus mentah (*drop_duplicates*), jumlah porsi terjual dan omzet riil akan hilang.
-- **Hasil:** Sebanyak 2.504 baris berlebih berhasil dirampingkan. Validasi ketat (`assert`) membuktikan nilai Gross Sales dan Net Sales sebelum vs sesudah agregasi **SAMA PERSIS (selisih Rp 0,00)**.
+### E. Baris dengan Atribut Identik Menggunakan Agregasi (Bukan Drop Mentah)
+- **Kondisi Awal:** Ditemukan 1,837 baris duplikat persis di semua kolom, dan 2,504 baris berlebih dengan atribut identik (kuantitas/nilai boleh berbeda) dalam satu nomor struk (melibatkan total 4,520 baris).
+- **Penanganan:** Mengelompokkan berdasarkan atribut non-metrik dan menjumlahkan metrik kuantitas serta finansial (`Quantity`, `Gross Sales`, `Discounts`, `Refunds`, `Net Sales`), disertai kolom pelacak `Merged_Row_Count`.
+- **Alasan:** Diduga pemesanan bertahap (belum dikonfirmasi Owner), seperti pelanggan yang menambah porsi saat makan tanpa membuka struk baru. Jika dibuang mentah menggunakan `drop_duplicates()`, omzet dan kuantitas penjualan riil akan hilang.
+- **Hasil:** Sebanyak 2,504 baris berlebih berhasil dirampingkan menjadi baris tunggal teragregasi dengan integritas nominal 100% terjaga (selisih Rp 0,00).
 
 ### F. Penandaan Anomali Transaksi (`Anomaly_Flag`)
-- **Kondisi Awal:** Terdapat beberapa transaksi dengan nilai atau pola yang tidak lazim (porsi pesanan sangat besar, kata kunci uji coba kasir, dan pesanan bernilai Rp 0).
-- **Penanganan:** Menambahkan kolom `Anomaly_Flag` (`Outlier Gross`, `Kemungkinan Uji Coba`, `Gratis/Diskon Penuh`, `None`) tanpa menghapus baris data.
-- **Alasan:** Memberikan transparansi analitis agar analis data dapat menyaring atau mengecualikan transaksi ekstrem saat melatih model machine learning.
-- **Hasil:** Terdeteksi 1 baris *Outlier Gross* (struk `3BOOCW`, 50 porsi Mie Gebres diskon 100% oleh owner senilai Rp 500.000), 7 baris refund uji coba (*trial* kasir), dan 3.298 baris pesanan gratis/diskon penuh.
+- **Kondisi Awal:** Terdapat transaksi ekstrem dan transaksi uji coba kasir yang belum memiliki label penanda.
+- **Penanganan:** Membuat kolom `Anomaly_Flag` dengan kategori: 'Outlier Gross' (Gross >= Rp 500.000), 'Kemungkinan Uji Coba' (alasan refund trial/belajar), 'Gratis/Diskon Penuh' (Net = 0 pada event Payment), dan 'Normal'. Baris tidak dihapus melainkan hanya ditandai.
+- **Alasan:** Memberikan transparansi pada tahap EDA dan permodelan tanpa merusak integritas rekonsiliasi data mentah.
+- **Hasil:** Terpetakan 1 baris *Outlier Gross*, 7 baris kemungkinan uji coba kasir, 3,298 baris pesanan gratis/diskon penuh, dan 58,125 baris transaksi berstatus normal.
 
 ### G. Standarisasi Teks, Modifier, dan Pembayaran
-- **Kondisi Awal:** Kolom `Reason of Refund` memiliki teks bebas tidak seragam, `Modifier Applied` memiliki format multi-value dipisah koma dengan spasi, metode split payment berlabel `Gopay;Cash`, dan terdapat spasi liar.
-- **Penanganan:** Memetakan alasan refund ke 8 kategori baku (teks asli disimpan di `Reason_Raw`), memparsing `Modifier Applied` menjadi `Modifier_List` dipisahkan pipa (`|`), menyeragamkan payment method menjadi `Split (Gopay+Cash)`, serta membersihkan leading/trailing whitespace pada seluruh kolom teks.
-- **Alasan:** Standarisasi label mutlak diperlukan agar proses grouping dan filtering saat EDA tidak terpecah oleh inkonsistensi penulisan.
-- **Hasil:** Seluruh kolom kategorikal bersih, seragam, dan bebas spasi liar.
+- **Kondisi Awal:** Kolom `Reason of Refund` memiliki teks bebas tidak seragam, `Modifier Applied` memiliki format multi-value dipisah koma dengan spasi, metode split payment berlabel `Gopay;Cash`, dan terdapat spasi liar. Nilai kosong pada kolom kategorikal belum terstandarisasi.
+- **Penanganan:** Memetakan alasan refund ke kategori baku (teks asli disimpan di `Reason_Raw`), memparsing `Modifier Applied` menjadi `Modifier_List` dipisahkan pipa (`|`), menyeragamkan payment method menjadi `Split (Gopay+Cash)`, mengisi nilai kosong pada `Discount Applied` dan `Reason_Raw` dengan label baku `'Tidak Ada'`, serta membersihkan leading/trailing whitespace pada seluruh kolom teks tanpa merusak missing values.
+- **Alasan:** Standarisasi label mutlak diperlukan agar proses grouping dan filtering saat EDA tidak terpecah oleh inkonsistensi penulisan dan bebas dari string teks 'nan' atau 'None'.
+- **Hasil:** Seluruh kolom kategorikal bersih, seragam, dan bebas spasi liar maupun teks 'nan'/'None'.
 
 ### H. Data Identitas Pelanggan (`Customer`)
-- **Kondisi Awal:** Kolom `Customer` berisi nomor handphone pelanggan format kasir (`+62...`) dan nilai kosong untuk pelanggan anonim.
-- **Penanganan:** Mempertahankan kolom `Customer` apa adanya sesuai data asli kasir tanpa dilakukan hashing SHA-256.
-- **Alasan:** Sesuai instruksi pengguna untuk memudahkan penelusuran riwayat pelanggan dan analisis retensi pelanggan (*repeat orders*).
-- **Hasil:** 38.551 nomor handphone pelanggan tersimpan utuh dan 25.384 transaksi anonim tetap tercatat wajar.
+- **Kondisi Awal:** Kolom `Customer` berisi nomor handphone pelanggan format kasir (`+62...`) dengan awalan tanda kutip tunggal (`'`) dan nilai kosong untuk pelanggan anonim.
+- **Penanganan:** Menghapus tanda kutip tunggal di awal nomor HP (`str.lstrip("'")`) hanya pada nilai non-null, dan membiarkan nilai kosong tetap NaN. Nomor HP pelanggan dipertahankan asli atas keputusan pengguna (tanpa hashing).
+- **Alasan:** Nomor HP pelanggan dipertahankan asli atas keputusan pengguna (hanya tanda ' di awal dihapus), tanpa hashing, untuk memudahkan penelusuran pelanggan.
+- **Hasil:** Sebanyak 37,169 baris nomor HP pelanggan tersimpan utuh (3,523 pelanggan unik) dan 24,262 baris transaksi anonim (kosong) tetap tercatat wajar. *Catatan: File ini memuat nomor HP pelanggan, jadi tidak untuk dipublikasikan.*
 
 ---
 
@@ -89,8 +89,10 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 2. **Kelengkapan Kolom Inti (*Core Completeness*):**
    - Kolom inti (`Datetime`, `Category`, `Items`, `Quantity`, `Gross Sales`, `Net Sales`) memiliki **0 missing values (100% lengkap)**.
 3. **Pembersihan Whitespace:**
-   - Seluruh kolom teks telah dibersihkan dari spasi liar di awal dan akhir karakter.
-4. **Rekonsiliasi Keuangan (Zero Financial Loss):**
+   - Seluruh kolom teks telah dibersihkan dari spasi liar di awal dan akhir karakter dengan mempertahankan nilai kosong asli.
+4. **Bebas dari String 'nan' dan 'None':**
+   - Seluruh file ekspor (`sales_clean.csv`, `refunds.csv`, `dropped_nagih.csv`) telah divalidasi tidak memuat string teks 'nan' atau 'None'.
+5. **Rekonsiliasi Keuangan (Zero Financial Loss):**
    - Formula `Total Raw - Total Dropped (Nagih) == Total Bersih Final` terpenuhi secara matematis dengan **selisih Rp 0,0000** baik pada Gross Sales maupun Net Sales.
 
 ---
@@ -110,15 +112,15 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 | `Bundle_Package` | 80 | 0.13% |
 | `Uncategorized` | 34 | 0.06% |
 
-- Menu kategori utama (`Bakso`, `Gorengan`, `Mie`, `Minuman`, `Tambahan`) mencakup **97,16%** transaksi, yang akan digunakan sebagai input penyusunan Bill of Materials (BOM) pada model prediksi stok ([PRD.md](PRD.md) FR-04).
-- Kategori `Bundle_Package` (80 baris) merupakan pesanan paket makanan + minuman.
-- Kategori `Uncategorized` (34 baris) merupakan transaksi nominal manual kasir.
+- Menu kategori utama (`Bakso`, `Gorengan`, `Mie`, `Minuman`, `Tambahan`) mencakup **97.15%** transaksi, yang akan digunakan sebagai input penyusunan Bill of Materials (BOM) pada model prediksi stok ([PRD.md](PRD.md) FR-04).
+- Kategori `Bundle_Package` (80 baris) merupakan paket makanan (Mie Ayam / Paket Bakso), tidak termasuk minuman (contoh: Mie Ayam Juara (11 baris), Mie Ayam Bakso Mantap (11 baris), Paket Bakso Klasik Kecil (8 baris)).
+- Kategori `Uncategorized` (34 baris) merupakan Custom Amount (semua item bernama Custom Amount).
 
 ### B. Distribusi Indikator Anomali (`Anomaly_Flag`)
 
 | Jenis Anomali (Anomaly_Flag) | Jumlah Baris | Persentase |
 |---|---|---|
-| `None` | 58,125 | 94.62% |
+| `Normal` | 58,125 | 94.62% |
 | `Gratis/Diskon Penuh` | 3,298 | 5.37% |
 | `Kemungkinan Uji Coba` | 7 | 0.01% |
 | `Outlier Gross` | 1 | 0.00% |
@@ -130,17 +132,17 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 Berikut adalah 4 poin keputusan operasional yang perlu dikonfirmasi pemilik warung (Owner) sebelum melatih model machine learning:
 
 1. **Status Omzet Menu "Uncategorized" (Custom Amount):**
-   - *Fakta:* Terdapat 34 transaksi manual kasir dengan total Net Sales Rp 173.000 tanpa keterangan menu fisik.
+   - *Fakta:* Terdapat 34 transaksi manual kasir dengan total Net Sales Rp 173,108.88 tanpa keterangan menu fisik (semua item bernama Custom Amount).
    - *Rekomendasi:* Dikecualikan dari model peramalan bahan baku dapur (karena tidak ada resep fisik), tetapi tetap dihitung dalam laporan total omzet kasir.
 
 2. **Pola Pesanan Duplikat dalam Satu Nomor Struk:**
-   - *Fakta:* Ditemukan 2.504 baris menu yang diinput berulang pada struk yang sama dan telah diagregasikan kuantitasnya.
-   - *Rekomendasi:* Mohon konfirmasi apakah pola ini memang pesanan bertahap (*tambah porsi saat makan*) agar pendekatan agregasi yang diterapkan dinyatakan final.
+   - *Fakta:* Ditemukan 2,504 baris menu berlebih dengan atribut identik pada struk yang sama dan telah diagregasikan kuantitasnya (melibatkan total 4,520 baris).
+   - *Rekomendasi:* Mohon konfirmasi apakah pola ini diduga pemesanan bertahap (*tambah porsi saat makan*) agar pendekatan agregasi yang diterapkan dinyatakan final.
 
 3. **Validitas Transaksi Pesanan Porsi Besar (Gross Rp 500.000):**
-   - *Fakta:* Struk `3BOOCW` pada tanggal 4 Maret 2026 mencatat pesanan 50 porsi Mie Gebres senilai Rp 500.000 dengan diskon 100% ('Discount Owner') sehingga Net Sales = Rp 0.
-   - *Rekomendasi:* Transaksi ini valid sebagai konsumsi 50 porsi mie fisik dari dapur, namun perlu dikeluarkan saat menghitung *Average Order Value* (AOV) reguler agar tidak mendistorsi statistik keranjang belanja.
+   - *Fakta:* Struk `3BOOCW` pada tanggal 4 Maret 2026 mencatat pesanan 50 porsi Mie Gebres senilai Rp 500,000.00 dengan diskon Rp 500,000.00 sehingga Net Sales = Rp 0.00.
+   - *Rekomendasi:* Transaksi ini kemungkinan konsumsi 50 porsi; perlu konfirmasi Owner. Selain itu, transaksi ini perlu dikeluarkan saat menghitung *Average Order Value* (AOV) reguler agar tidak mendistorsi statistik keranjang belanja.
 
 4. **Makna Operasional Struk Berawalan "4Z7" (Kasir Nawayoga & Bakso Mambal):**
-   - *Fakta:* Terdapat 34 struk (126 baris) berawalan `4Z7` yang diinput oleh kasir `Nawayoga` (100 baris) dan `Bakso Mambal` (26 baris) dengan nilai Net Sales = Rp 0.
+   - *Fakta:* Terdapat 34 struk (126 baris) berawalan `4Z7` dengan total Gross Sales Rp 838,000.00 dan Net Sales Rp 27,000.00, terdiri dari: kasir `Bakso Mambal` (26 baris, 5 struk, Gross: Rp 181,000.00, Net: Rp 0.00); kasir `Nawayoga` (100 baris, 29 struk, Gross: Rp 657,000.00, Net: Rp 27,000.00).
    - *Rekomendasi:* Mohon konfirmasi apakah transaksi ini merupakan pesanan operasional cabang lain, konsumsi internal, atau uji coba kasir baru, agar dapat ditentukan perlakuan pemodelannya.
