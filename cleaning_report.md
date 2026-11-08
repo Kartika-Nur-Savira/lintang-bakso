@@ -36,7 +36,7 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 ### B. Transaksi Kategori "0-Nagih" (Piutang Kasir)
 - **Kondisi Awal:** Terdapat 98 nomor struk kasir yang memuat item berkategori `0-Nagih` (382 baris menu Nagih seperti '0-Somay', '0-Kecil', dan 10 baris menu bakso reguler yang tercatat pada struk yang sama).
 - **Penanganan:** Mengidentifikasi seluruh `Receipt Number` yang mengandung `0-Nagih`, membuang seluruh baris dari struk tersebut, dan menyimpannya ke berkas arsip `dropped_nagih.csv`.
-- **Alasan:** Berdasarkan arahan Owner, transaksi ini bukan penjualan makanan/minuman operasional warung, melainkan pencatatan penagihan piutang/titipan uang antar kasir, sehingga akan mendistorsi prediksi konsumsi bahan baku dapur jika diikutsertakan.
+- **Alasan:** Berdasarkan arahan Owner, transaksi ini bukan penjualan makanan/minuman operasional warung, melainkan pencatatan uji coba usaha di warkop dan berdasar arahan dari owner untuk transaksi itu diabaikan saja.
 - **Hasil:** Sebanyak 392 baris (98 struk) berhasil dikeluarkan dan diarsipkan lengkap (Gross: Rp 1,621,000.00, Net: Rp 1,393,000.07). Awalan struk `9XT` (kasir `Reny Komar`) dan `8AA` (kasir `Insan Admin`) otomatis bersih dari data final.
 
 ### C. Kolom Tidak Berguna, Redundan, dan Kosong
