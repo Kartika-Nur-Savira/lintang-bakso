@@ -3,10 +3,10 @@
 **Kasus Bisnis:** Warung Bakso Lintang (Ketintang, Surabaya)  
 **Dokumen Acuan:** [PRD.md](PRD.md) v1.1 - Sistem Prediksi Stok & Business Intelligence  
 **File Input Mentah:** `sales_report.csv` (64,327 baris x 25 kolom)  
-**File Output Bersih:** `sales_clean.csv` (61,431 baris x 27 kolom)  
+**File Output Bersih:** `sales_clean.csv` (61,431 baris x 26 kolom)  
 **File Output Refund:** `refunds.csv` (149 baris)  
 **File Arsip Dropped Nagih:** `dropped_nagih.csv` (392 baris)  
-**Tanggal Eksekusi:** 2026-11-08 20:39:09  
+**Tanggal Eksekusi:** 2026-11-10 16:32:13  
 
 ---
 
@@ -15,7 +15,7 @@
 | Metrik | Data Awal (Raw) | Dikeluarkan (Nagih) | Data Bersih (Final) | Status Rekonsiliasi |
 |---|---|---|---|---|
 | **Jumlah Baris** | 64,327 | 392 | 61,431 | -2,896 baris (392 Nagih + 2,504 duplikat) |
-| **Jumlah Kolom** | 25 | - | 27 | +2 kolom (10 kolom dibuang, 12 fitur baru/standar) |
+| **Jumlah Kolom** | 25 | - | 26 | +1 kolom (11 kolom dibuang, 12 fitur baru/standar) |
 | **Total Gross Sales** | Rp 579,298,500.00 | Rp 1,621,000.00 | Rp 577,677,500.00 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Total Net Sales** | Rp 545,722,042.59 | Rp 1,393,000.07 | Rp 544,329,042.52 | **SAMA PERSIS (Selisih Rp 0.00)** |
 | **Net Sales (Payment)** | Rp 547,304,501.85 | Rp 1,456,000.07 | Rp 545,848,501.78 | **SAMA PERSIS (Selisih Rp 0.00)** |
@@ -36,16 +36,12 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 ### B. Transaksi Kategori "0-Nagih" (Uji Coba Penjualan Warkop)
 - **Kondisi Awal:** Terdapat 98 nomor struk kasir yang memuat item berkategori `0-Nagih` (382 baris menu Nagih seperti '0-Somay', '0-Kecil', dan 10 baris menu bakso reguler yang tercatat pada struk yang sama).
 - **Penanganan:** Mengidentifikasi seluruh `Receipt Number` yang mengandung `0-Nagih`, membuang seluruh baris dari struk tersebut, dan menyimpannya ke berkas arsip `dropped_nagih.csv`.
-<<<<<<< HEAD
-- **Alasan:** Berdasarkan arahan Owner, transaksi ini bukan penjualan makanan/minuman operasional warung, melainkan pencatatan uji coba usaha di warkop dan berdasar arahan dari owner untuk transaksi itu diabaikan saja.
-=======
 - **Alasan:** Kategori 0-Nagih adalah uji coba penjualan di warkop (21 Feb-13 Mar 2026) yang tidak dilanjutkan, berdasarkan konfirmasi Owner. Karena bukan penjualan operasional warung, seluruh struk terkait dikeluarkan dan diarsipkan di dropped_nagih.csv. Awalan struk 9XT (kasir Reny Komar) dan 8AA (kasir Insan Admin) adalah bagian dari uji coba ini.
->>>>>>> 94d3fce (cleaning dataset)
 - **Hasil:** Sebanyak 392 baris (98 struk) berhasil dikeluarkan dan diarsipkan lengkap (Gross: Rp 1,621,000.00, Net: Rp 1,393,000.07). Awalan struk `9XT` (kasir `Reny Komar`) dan `8AA` (kasir `Insan Admin`) otomatis bersih dari data final.
 
 ### C. Kolom Tidak Berguna, Redundan, dan Kosong
-- **Kondisi Awal:** Terdapat 10 kolom yang tidak memberikan nilai analitis atau 100% bernilai kosong dari sistem kasir (`Outlet`, `Gratuity`, `Tax`, `Collected By`, `Brand`, `Date`, `Time`, `Variant`, `SKU`, `Served By`).
-- **Penanganan:** Menghapus seluruh 10 kolom tersebut dari DataFrame (`df.drop(columns=drop_cols)`).
+- **Kondisi Awal:** Terdapat 11 kolom yang tidak memberikan nilai analitis atau 100% bernilai kosong dari sistem kasir (`Outlet`, `Gratuity`, `Tax`, `Collected By`, `Brand`, `Date`, `Time`, `Customer`, `Variant`, `SKU`, `Served By`).
+- **Penanganan:** Menghapus seluruh 11 kolom tersebut dari DataFrame (`df.drop(columns=drop_cols)`).
 - **Alasan:** Kolom kosong dan konstanta tidak menambah variansi informasi, sedangkan kolom `Date` dan `Time` telah diwakili secara lebih akurat dan terintegrasi oleh kolom tunggal `Datetime`.
 - **Hasil:** Struktur tabel lebih ramping dan efisien, menghemat penggunaan memori tanpa kehilangan informasi analitis penting.
 
@@ -75,10 +71,16 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 - **Hasil:** Seluruh kolom kategorikal bersih, seragam, dan bebas spasi liar maupun teks 'nan'/'None'.
 
 ### H. Data Identitas Pelanggan (`Customer`)
-- **Kondisi Awal:** Kolom `Customer` berisi nomor handphone pelanggan format kasir (`+62...`) dengan awalan tanda kutip tunggal (`'`) dan nilai kosong untuk pelanggan anonim.
-- **Penanganan:** Menghapus tanda kutip tunggal di awal nomor HP (`str.lstrip("'")`) hanya pada nilai non-null, dan membiarkan nilai kosong tetap NaN. Nomor HP pelanggan dipertahankan asli atas keputusan pengguna (tanpa hashing).
-- **Alasan:** Nomor HP pelanggan dipertahankan asli atas keputusan pengguna (hanya tanda ' di awal dihapus), tanpa hashing, untuk memudahkan penelusuran pelanggan.
-- **Hasil:** Sebanyak 37,169 baris nomor HP pelanggan tersimpan utuh (3,523 pelanggan unik) dan 24,262 baris transaksi anonim (kosong) tetap tercatat wajar. *Catatan: File ini memuat nomor HP pelanggan, jadi tidak untuk dipublikasikan.*
+- **Kondisi Awal:** Kolom `Customer` berisi nomor handphone pelanggan format kasir (`+62...`) dan nilai kosong untuk pelanggan anonim.
+- **Penanganan:** Kolom `Customer` dihapus secara total dari seluruh berkas output (`sales_clean.csv`, `refunds.csv`, `dropped_nagih.csv`, serta seluruh file siap-pakai).
+- **Alasan:** Menjaga privasi data pelanggan (*data privacy/confidentiality*) dan nomor HP tidak dibutuhkan untuk pemodelan peramalan stok bahan baku maupun business intelligence pada PRD.
+- **Hasil:** Tidak ada data identitas atau nomor HP pelanggan di seluruh output dataset bersih final.
+
+### I. Penanda Kategori Menu Khusus (`Item_Flag`)
+- **Kondisi Awal:** Menu paket (`Bundle_Package`) dan input manual kasir (`Uncategorized`) belum memiliki label pembeda eksplisit dari menu satuan standar.
+- **Penanganan:** Membentuk kolom `Item_Flag` berbasis kolom `Category`: `"Uncategorized"` $ightarrow$ `"Custom Amount"`, `"Bundle_Package"` $ightarrow$ `"Bundle"`, dan kategori lainnya $ightarrow$ `"Normal"`.
+- **Alasan:** Memudahkan pemisahan data pada model peramalan bahan baku dapur (menu *Bundle* memerlukan dekomposisi resep multi-item, sedangkan *Custom Amount* tidak memiliki resep fisik).
+- **Hasil:** Terpetakan 80 baris *Bundle*, 34 baris *Custom Amount*, dan 61,317 baris *Normal*.
 
 ---
 
@@ -90,8 +92,8 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
    - Kolom inti (`Datetime`, `Category`, `Items`, `Quantity`, `Gross Sales`, `Net Sales`) memiliki **0 missing values (100% lengkap)**.
 3. **Pembersihan Whitespace:**
    - Seluruh kolom teks telah dibersihkan dari spasi liar di awal dan akhir karakter dengan mempertahankan nilai kosong asli.
-4. **Bebas dari String 'nan' dan 'None':**
-   - Seluruh file ekspor (`sales_clean.csv`, `refunds.csv`, `dropped_nagih.csv`) telah divalidasi tidak memuat string teks 'nan' atau 'None'.
+4. **Bebas dari String 'nan', 'None', dan Nomor Telepon:**
+   - Seluruh file ekspor telah divalidasi tidak memuat string teks 'nan', 'None', serta bebas dari data nomor telepon pelanggan.
 5. **Rekonsiliasi Keuangan (Zero Financial Loss):**
    - Formula `Total Raw - Total Dropped (Nagih) == Total Bersih Final` terpenuhi secara matematis dengan **selisih Rp 0,0000** baik pada Gross Sales maupun Net Sales.
 
@@ -125,6 +127,14 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 | `Kemungkinan Uji Coba` | 7 | 0.01% |
 | `Outlier Gross` | 1 | 0.00% |
 
+### C. Distribusi Penanda Kategori Menu Khusus (`Item_Flag`)
+
+| Penanda Menu (Item_Flag) | Jumlah Baris | Persentase |
+|---|---|---|
+| `Normal` | 61,317 | 99.81% |
+| `Bundle` | 80 | 0.13% |
+| `Custom Amount` | 34 | 0.06% |
+
 ---
 
 ## 5. Pertanyaan Lanjutan yang Perlu Dikonfirmasi Owner
@@ -146,3 +156,12 @@ Berikut adalah 4 poin keputusan operasional yang perlu dikonfirmasi pemilik waru
 4. **Makna Operasional Struk Berawalan "4Z7" (Kasir Nawayoga & Bakso Mambal):**
    - *Fakta:* Terdapat 34 struk (126 baris) berawalan `4Z7` dengan total Gross Sales Rp 838,000.00 dan Net Sales Rp 27,000.00, terdiri dari: kasir `Bakso Mambal` (26 baris, 5 struk, Gross: Rp 181,000.00, Net: Rp 0.00); kasir `Nawayoga` (100 baris, 29 struk, Gross: Rp 657,000.00, Net: Rp 27,000.00).
    - *Rekomendasi:* Mohon konfirmasi apakah transaksi ini merupakan pesanan operasional cabang lain, konsumsi internal, atau uji coba kasir baru, agar dapat ditentukan perlakuan pemodelannya.
+
+---
+
+## 6. Berkas Output Siap-Pakai (Ready-to-Use Outputs)
+
+Dataset bersih final diturunkan menjadi 3 file spesifik untuk mendukung kebutuhan operasional downstream:
+1. **`sales_final.csv`** (61,431 baris x 24 kolom): Dataset transaksi granular terstandarisasi snake_case dengan `row_id` sekuensial (1..N) untuk dashboard visualisasi dan chatbot Supabase.
+2. **`sales_audit.csv`** (61,431 baris x 9 kolom): Dataset audit internal untuk menelusuri nomor struk, baris teragregasi (`merged_row_count`), alasan refund mentah, anomali, dan selisih formula keuangan (`net_diff`).
+3. **`daily_item_demand.csv`** (18.423 baris: 267 hari x 69 menu): Dataset deret waktu harian per menu untuk peramalan permintaan (*forecasting*) dan penyusunan Bill of Materials (BOM), mencakup pemisahan 264 hari buka dan 3 hari tutup, porsi reguler, porsi refund pengurangan bahan, porsi gratis, serta penanda menu jarang terjual (`is_sparse_item`).

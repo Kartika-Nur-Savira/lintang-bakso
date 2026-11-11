@@ -1,393 +1,393 @@
-Outlet,Receipt Number,Date,Time,Category,Brand,Items,Variant,SKU,Quantity,Modifier Applied,Discount Applied,Gross Sales,Discounts,Refunds,Net Sales,Gratuity,Tax,Sales Type,Collected By,Served By,Customer,Payment Method,Event Type,Reason of Refund,Datetime
-Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,2307.69,0.0,692.31,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 20:04:26
-Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Tahu,,,1,,Discount Karyawan,3000.0,2307.69,0.0,692.31,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 20:04:26
-Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,5384.62,0.0,1615.39,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 20:04:26
-Lintang Bakso Ketintang,9XTIN4,13-03-2026,19:14:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 19:14:42
-Lintang Bakso Ketintang,9XTIN4,13-03-2026,19:14:42,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 19:14:42
-Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 19:13:15
-Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 19:13:15
-Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 19:13:15
-Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:45
-Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:45
-Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:45
-Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:30
-Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:30
-Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 18:49:30
-Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 17:30:08
-Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Kotak,,,1,,0-C1/C2--1 rb,2000.0,125.0,0.0,1875.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 17:30:08
-Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Kecil,,,2,,0-C1/C2--1 rb,4000.0,250.0,0.0,3750.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 17:30:08
-Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Jumbo,,,1,,0-C1/C2--1 rb,7000.0,437.5,0.0,6562.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 17:30:08
-Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-13 16:47:12
-Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-13 16:47:12
-Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-13 16:47:12
-Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-13 16:47:12
-Lintang Bakso Ketintang,9XTIMY,13-03-2026,16:46:38,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 16:46:38
-Lintang Bakso Ketintang,9XTIMY,13-03-2026,16:46:38,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-13 16:46:38
-Lintang Bakso Ketintang,9XTIMX,12-03-2026,22:24:37,0-Nagih,Unbranded,0-Kecil,,,12,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",24000.0,1500.0,0.0,22500.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 22:24:37
-Lintang Bakso Ketintang,9XTIMX,12-03-2026,22:24:37,0-Nagih,Unbranded,0-Kotak,,,12,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",24000.0,1500.0,0.0,22500.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 22:24:37
-Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:40:41
-Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:40:41
-Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:40:41
-Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:40:41
-Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Kotak,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:40:41
-Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 18:23:49
-Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 18:23:49
-Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 18:23:49
-Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 18:23:49
-Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:17:40
-Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:17:40
-Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:17:40
-Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:17:40
-Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Besar,,,3,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",9000.0,1173.91,0.0,7826.09,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:17:40
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:11:25,0-Nagih,Unbranded,Full Refund for: 9XTIMQ - 0-Gorengan,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-03-12 18:11:25
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Jumbo,,,-1,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Kotak,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Gorengan,,,-2,,,0.0,0.0,6000.0,-6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
-Lintang Bakso Ketintang,9XTIMT,12-03-2026,18:05:55,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:55
-Lintang Bakso Ketintang,9XTIMT,12-03-2026,18:05:55,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:55
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 18:05:38
-Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 17:35:26
-Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 17:35:26
-Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Kecil,,,6,,,12000.0,0.0,0.0,12000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-12 17:35:26
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 16:50:44
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 16:50:44
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 16:50:44
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 16:50:44
-Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-12 16:50:44
-Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 21:22:55
-Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 21:22:55
-Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 21:22:55
-Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 21:22:55
-Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 21:22:55
-Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Ekonomi,,,1,,Discount Karyawan,1000.0,1000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 20:16:33
-Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 20:16:33
-Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Kotak,,,1,,Discount Karyawan,2000.0,2000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 20:16:33
-Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 18:16:08
-Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Kotak,,,3,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 18:16:08
-Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 18:16:08
-Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-07 18:16:08
-Lintang Bakso Ketintang,9XTIMM,06-03-2026,22:05:13,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 22:05:13
-Lintang Bakso Ketintang,9XTIMM,06-03-2026,22:05:13,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 22:05:13
-Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:39
-Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:39
-Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:39
-Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:39
-Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:10
-Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:10
-Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:10
-Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-06 19:42:10
-Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-06 19:41:43
-Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-06 19:41:43
-Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-06 19:41:43
-Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-06 19:41:43
-Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-06 19:41:43
-Lintang Bakso Ketintang,9XTIMI,05-03-2026,22:06:55,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 22:06:55
-Lintang Bakso Ketintang,9XTIMI,05-03-2026,22:06:55,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 22:06:55
-Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 21:04:35
-Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 21:04:35
-Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 21:04:35
-Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 21:04:35
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:13:13,0-Nagih,Unbranded,Full Refund for: 9XTIMF - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Refund,Cancelled Order,2026-03-05 18:13:13
-Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:10:41
-Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:10:41
-Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Ekonomi,,,10,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:10:41
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Ekonomi,,,-7,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Kotak,,,-1,,,0.0,0.0,2000.0,-2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Besar,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:01:30
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:01:30
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:01:30
-Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Ekonomi,,,7,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 18:01:30
-Lintang Bakso Ketintang,9XTIME,05-03-2026,17:51:45,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 17:51:45
-Lintang Bakso Ketintang,9XTIME,05-03-2026,17:51:45,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-05 17:51:45
-Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Kecil,,,1,,Discount Karyawan,2000.0,2000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:42:33
-Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:42:33
-Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Ekonomi,,,1,,Discount Karyawan,1000.0,1000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:42:33
-Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:25:11
-Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:25:11
-Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:25:11
-Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:25:11
-Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Ekonomi,,,2,,0-C1/C2--1 rb,2000.0,153.85,0.0,1846.15,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:06:08
-Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:06:08
-Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Kotak,,,1,,0-C1/C2--1 rb,2000.0,153.85,0.0,1846.15,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:06:08
-Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:06:08
-Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 21:06:08
-Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 20:43:48
-Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Kotak,,,3,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 20:43:48
-Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 20:43:48
-Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 20:43:48
-Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 20:43:48
-Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 19:34:04
-Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 19:34:04
-Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 19:34:04
-Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 19:34:04
-Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 19:34:04
-Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 19:32:05
-Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 19:32:05
-Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Ekonomi,,,4,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 19:32:05
-Lintang Bakso Ketintang,9XTIM7,03-03-2026,17:05:07,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-03 17:05:07
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Kecil,,,1,,0-C1/C2--1 rb,2000.0,125.0,0.0,1875.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Kotak,,,2,,0-C1/C2--1 rb,4000.0,250.0,0.0,3750.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-03 16:46:23
-Lintang Bakso Ketintang,9XTIM5,02-03-2026,21:40:56,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 21:40:56
-Lintang Bakso Ketintang,9XTIM5,02-03-2026,21:40:56,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 21:40:56
-Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Ekonomi,,,7,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 19:29:10
-Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 19:29:10
-Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 19:29:10
-Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 19:29:10
-Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 19:29:10
-Lintang Bakso Ketintang,9XTIM3,02-03-2026,18:47:36,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:47:36
-Lintang Bakso Ketintang,9XTIM3,02-03-2026,18:47:36,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:47:36
-Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Kotak,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:47:18
-Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:47:18
-Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:47:18
-Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:34:39
-Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Tahu,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:34:39
-Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Somay,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:34:39
-Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:34:39
-Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Tahu,,,3,,0-C1/C2--1 rb,9000.0,562.5,0.0,8437.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:31:44
-Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:31:44
-Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:31:44
-Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:31:44
-Lintang Bakso Ketintang,9XTILZ,02-03-2026,18:20:12,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 18:20:12
-Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:11:44
-Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Somay,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:11:44
-Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Kecil,,,3,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:11:44
-Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:11:44
-Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:01:45
-Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:01:45
-Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-02 18:01:45
-Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 17:40:38
-Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Somay,,,3,,0-C1/C2--1 rb,9000.0,562.5,0.0,8437.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 17:40:38
-Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 17:40:38
-Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-02 17:40:38
-Lintang Bakso Ketintang,9XTILV,01-03-2026,20:14:47,0-Nagih,Unbranded,0-Kecil,,,5,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 20:14:47
-Lintang Bakso Ketintang,9XTILU,01-03-2026,18:47:25,0-Nagih,Unbranded,0-Kotak,,,2,,Discount Karyawan,4000.0,3636.36,0.0,363.64,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 18:47:25
-Lintang Bakso Ketintang,9XTILU,01-03-2026,18:47:25,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,6363.64,0.0,636.36,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 18:47:25
-Lintang Bakso Ketintang,9XTILT,01-03-2026,17:56:51,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:56:51
-Lintang Bakso Ketintang,9XTILT,01-03-2026,17:56:51,0-Nagih,Unbranded,0-Kecil,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:56:51
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Kotak,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",2000.0,260.87,0.0,1739.13,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Kecil,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",2000.0,260.87,0.0,1739.13,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Somay,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Ekonomi,,,4,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",4000.0,521.74,0.0,3478.26,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-03-01 17:38:35
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Jumbo,,,3,,,21000.0,0.0,0.0,21000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Besar,,,7,,,21000.0,0.0,0.0,21000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 17:19:05
-Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Cilok,,,1,,0-C1/C2--2 rb,1000.0,142.86,0.0,857.14,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:44:46
-Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Ekonomi,,,6,,0-C1/C2--2 rb,6000.0,857.14,0.0,5142.86,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:44:46
-Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--2 rb,1000.0,142.86,0.0,857.14,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:44:46
-Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Besar,,,2,,0-C1/C2--2 rb,6000.0,857.14,0.0,5142.86,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:44:46
-Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Gorengan,,,2,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:23:29
-Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:23:29
-Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:23:29
-Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 16:23:29
-Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 15:48:55
-Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 15:48:55
-Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-03-01 15:48:55
-Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-28 22:13:38
-Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-28 22:13:38
-Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Kecil,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-28 22:13:38
-Lintang Bakso Ketintang,9XTILM,28-02-2026,22:13:13,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 22:13:13
-Lintang Bakso Ketintang,9XTILM,28-02-2026,22:13:13,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 22:13:13
-Lintang Bakso Ketintang,9XTILL,28-02-2026,18:49:01,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 18:49:01
-Lintang Bakso Ketintang,9XTILL,28-02-2026,18:49:01,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 18:49:01
-Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 17:24:42
-Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 17:24:42
-Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 17:24:42
-Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 17:24:42
-Lintang Bakso Ketintang,9XTILJ,28-02-2026,17:09:40,0-Nagih,Unbranded,0-Ekonomi,,,10,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 17:09:40
-Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Ekonomi,,,4,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 16:54:37
-Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 16:54:37
-Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-28 16:54:37
-Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:05:18
-Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Kotak,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:05:18
-Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:05:18
-Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:02:10
-Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:02:10
-Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 23:02:10
-Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:14:52
-Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:14:52
-Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:14:52
-Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:14:52
-Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:11:36
-Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:11:36
-Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:11:36
-Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:11:36
-Lintang Bakso Ketintang,9XTILD,26-02-2026,22:07:47,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:07:47
-Lintang Bakso Ketintang,9XTILD,26-02-2026,22:07:47,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:07:47
-Lintang Bakso Ketintang,9XTILC,26-02-2026,22:07:24,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:07:24
-Lintang Bakso Ketintang,9XTILC,26-02-2026,22:07:24,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 22:07:24
-Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 21:58:01
-Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Gorengan,,,2,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 21:58:01
-Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 21:58:01
-Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 21:58:01
-Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:15:52
-Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:15:52
-Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:15:52
-Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:15:52
-Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:06:45
-Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:06:45
-Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-26 16:06:45
-Lintang Bakso Ketintang,9XTIL8,25-02-2026,18:18:54,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:18:54
-Lintang Bakso Ketintang,9XTIL8,25-02-2026,18:18:54,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:18:54
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 18:03:45
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Gorengan,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Tahu,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Kecil,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Ekonomi,,,-1,,,0.0,0.0,1000.0,-1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Kotak,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Jumbo,,,-1,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Besar,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:53:13
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-25 17:51:49
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Besar,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,692.31,0.0,5307.69,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,807.69,0.0,6192.31,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,346.15,0.0,2653.85,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,115.39,0.0,884.62,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,346.15,0.0,2653.85,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,692.31,0.0,5307.69,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-25 17:20:56
-Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:45:42
-Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:45:42
-Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:45:42
-Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:45:42
-Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:45:42
-Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:03:30
-Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:03:30
-Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:03:30
-Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:03:30
-Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 21:03:30
-Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:38:49
-Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Gorengan,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:38:49
-Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Besar,,,3,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",9000.0,1173.91,0.0,7826.09,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:38:49
-Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:38:49
-Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:38:49
-Lintang Bakso Ketintang,9XTIL0,24-02-2026,20:26:25,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:26:25
-Lintang Bakso Ketintang,9XTIL0,24-02-2026,20:26:25,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 20:26:25
-Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 19:21:47
-Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 19:21:47
-Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 19:21:47
-Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 19:21:47
-Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 18:16:28
-Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Besar,,,6,,,18000.0,0.0,0.0,18000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 18:16:28
-Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 18:16:28
-Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 18:16:28
-Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-24 18:16:28
-Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-24 18:09:21
-Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-24 18:09:21
-Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-24 18:09:21
-Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-24 18:09:21
-Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:56:39
-Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:56:39
-Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:56:39
-Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:56:39
-Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:52:48
-Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:52:48
-Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:52:48
-Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 21:52:48
-Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 21:52:21
-Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 21:52:21
-Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 21:52:21
-Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:30:33
-Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:30:33
-Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:30:33
-Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:30:33
-Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:30:33
-Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Kotak,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:21:11
-Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:21:11
-Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:21:11
-Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 20:21:11
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:14:52
-Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:11:53
-Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:11:53
-Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:11:53
-Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 18:11:53
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 18:10:34
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-23 16:58:06
-Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Gorengan,,,4,,,12000.0,0.0,0.0,12000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 16:56:40
-Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 16:56:40
-Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 16:56:40
-Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-23 16:56:40
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-22 19:24:30
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 22:00:42
-Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-21 21:47:59
-Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-21 21:47:59
-Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Gopay,Payment,,2026-02-21 21:47:59
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:46:24
-Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:29:00
-Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:29:00
-Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:29:00
-Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 21:29:00
-Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Ekonomi,,,7,,0-Diskon Nagih,7000.0,1400.0,0.0,5600.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 20:17:16
-Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Somay,,,1,,0-Diskon Nagih,3000.0,600.0,0.0,2400.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 20:17:16
-Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Kotak,,,1,,0-Diskon Nagih,2000.0,400.0,0.0,1600.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 20:17:16
-Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Tahu,,,1,,0-Diskon Nagih,3000.0,600.0,0.0,2400.0,0.0,0.0,DINE IN,Reny Komar,,,Cash,Payment,,2026-02-21 20:17:16
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
-Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Nasi,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,,Gopay,Payment,,2026-02-21 19:25:54
+Outlet,Receipt Number,Date,Time,Category,Brand,Items,Variant,SKU,Quantity,Modifier Applied,Discount Applied,Gross Sales,Discounts,Refunds,Net Sales,Gratuity,Tax,Sales Type,Collected By,Served By,Payment Method,Event Type,Reason of Refund,Datetime
+Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,2307.69,0.0,692.31,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 20:04:26
+Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Tahu,,,1,,Discount Karyawan,3000.0,2307.69,0.0,692.31,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 20:04:26
+Lintang Bakso Ketintang,9XTIN5,13-03-2026,20:04:26,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,5384.62,0.0,1615.39,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 20:04:26
+Lintang Bakso Ketintang,9XTIN4,13-03-2026,19:14:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 19:14:42
+Lintang Bakso Ketintang,9XTIN4,13-03-2026,19:14:42,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 19:14:42
+Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 19:13:15
+Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 19:13:15
+Lintang Bakso Ketintang,9XTIN3,13-03-2026,19:13:15,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 19:13:15
+Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:45
+Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:45
+Lintang Bakso Ketintang,9XTIN2,13-03-2026,18:49:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:45
+Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:30
+Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:30
+Lintang Bakso Ketintang,9XTIN1,13-03-2026,18:49:30,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 18:49:30
+Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 17:30:08
+Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Kotak,,,1,,0-C1/C2--1 rb,2000.0,125.0,0.0,1875.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 17:30:08
+Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Kecil,,,2,,0-C1/C2--1 rb,4000.0,250.0,0.0,3750.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 17:30:08
+Lintang Bakso Ketintang,9XTIN0,13-03-2026,17:30:08,0-Nagih,Unbranded,0-Jumbo,,,1,,0-C1/C2--1 rb,7000.0,437.5,0.0,6562.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 17:30:08
+Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-13 16:47:12
+Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-13 16:47:12
+Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-13 16:47:12
+Lintang Bakso Ketintang,9XTIMZ,13-03-2026,16:47:12,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-13 16:47:12
+Lintang Bakso Ketintang,9XTIMY,13-03-2026,16:46:38,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 16:46:38
+Lintang Bakso Ketintang,9XTIMY,13-03-2026,16:46:38,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-13 16:46:38
+Lintang Bakso Ketintang,9XTIMX,12-03-2026,22:24:37,0-Nagih,Unbranded,0-Kecil,,,12,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",24000.0,1500.0,0.0,22500.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 22:24:37
+Lintang Bakso Ketintang,9XTIMX,12-03-2026,22:24:37,0-Nagih,Unbranded,0-Kotak,,,12,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",24000.0,1500.0,0.0,22500.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 22:24:37
+Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:40:41
+Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:40:41
+Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:40:41
+Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Kecil,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:40:41
+Lintang Bakso Ketintang,9XTIMW,12-03-2026,18:40:41,0-Nagih,Unbranded,0-Kotak,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:40:41
+Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 18:23:49
+Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 18:23:49
+Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 18:23:49
+Lintang Bakso Ketintang,9XTIMV,12-03-2026,18:23:49,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 18:23:49
+Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:17:40
+Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:17:40
+Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:17:40
+Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:17:40
+Lintang Bakso Ketintang,9XTIMU,12-03-2026,18:17:40,0-Nagih,Unbranded,0-Besar,,,3,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",9000.0,1173.91,0.0,7826.09,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:17:40
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:11:25,0-Nagih,Unbranded,Full Refund for: 9XTIMQ - 0-Gorengan,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-03-12 18:11:25
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Jumbo,,,-1,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Kotak,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,18:10:17,0-Nagih,Unbranded,Partial Refund for: 9XTIMQ - 0-Gorengan,,,-2,,,0.0,0.0,6000.0,-6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-03-12 18:10:17
+Lintang Bakso Ketintang,9XTIMT,12-03-2026,18:05:55,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:55
+Lintang Bakso Ketintang,9XTIMT,12-03-2026,18:05:55,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:55
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMS,12-03-2026,18:05:38,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 18:05:38
+Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 17:35:26
+Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 17:35:26
+Lintang Bakso Ketintang,9XTIMR,12-03-2026,17:35:26,0-Nagih,Unbranded,0-Kecil,,,6,,,12000.0,0.0,0.0,12000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-12 17:35:26
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 16:50:44
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 16:50:44
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 16:50:44
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 16:50:44
+Lintang Bakso Ketintang,9XTIMQ,12-03-2026,16:50:44,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-12 16:50:44
+Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 21:22:55
+Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 21:22:55
+Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 21:22:55
+Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 21:22:55
+Lintang Bakso Ketintang,9XTIMP,07-03-2026,21:22:55,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 21:22:55
+Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Ekonomi,,,1,,Discount Karyawan,1000.0,1000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 20:16:33
+Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 20:16:33
+Lintang Bakso Ketintang,9XTIMO,07-03-2026,20:16:33,0-Nagih,Unbranded,0-Kotak,,,1,,Discount Karyawan,2000.0,2000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 20:16:33
+Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 18:16:08
+Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Kotak,,,3,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 18:16:08
+Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 18:16:08
+Lintang Bakso Ketintang,9XTIMN,07-03-2026,18:16:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-07 18:16:08
+Lintang Bakso Ketintang,9XTIMM,06-03-2026,22:05:13,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 22:05:13
+Lintang Bakso Ketintang,9XTIMM,06-03-2026,22:05:13,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 22:05:13
+Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:39
+Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:39
+Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:39
+Lintang Bakso Ketintang,9XTIML,06-03-2026,19:42:39,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:39
+Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:10
+Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:10
+Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:10
+Lintang Bakso Ketintang,9XTIMK,06-03-2026,19:42:10,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-06 19:42:10
+Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-06 19:41:43
+Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-06 19:41:43
+Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-06 19:41:43
+Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-06 19:41:43
+Lintang Bakso Ketintang,9XTIMJ,06-03-2026,19:41:43,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-06 19:41:43
+Lintang Bakso Ketintang,9XTIMI,05-03-2026,22:06:55,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 22:06:55
+Lintang Bakso Ketintang,9XTIMI,05-03-2026,22:06:55,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 22:06:55
+Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 21:04:35
+Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 21:04:35
+Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 21:04:35
+Lintang Bakso Ketintang,9XTIMH,05-03-2026,21:04:35,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 21:04:35
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:13:13,0-Nagih,Unbranded,Full Refund for: 9XTIMF - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Refund,Cancelled Order,2026-03-05 18:13:13
+Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:10:41
+Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:10:41
+Lintang Bakso Ketintang,9XTIMG,05-03-2026,18:10:41,0-Nagih,Unbranded,0-Ekonomi,,,10,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:10:41
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Ekonomi,,,-7,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Kotak,,,-1,,,0.0,0.0,2000.0,-2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:05:43,0-Nagih,Unbranded,Partial Refund for: 9XTIMF - 0-Besar,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Refund,Cancelled Order,2026-03-05 18:05:43
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:01:30
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:01:30
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:01:30
+Lintang Bakso Ketintang,9XTIMF,05-03-2026,18:01:30,0-Nagih,Unbranded,0-Ekonomi,,,7,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 18:01:30
+Lintang Bakso Ketintang,9XTIME,05-03-2026,17:51:45,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 17:51:45
+Lintang Bakso Ketintang,9XTIME,05-03-2026,17:51:45,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-05 17:51:45
+Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Kecil,,,1,,Discount Karyawan,2000.0,2000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:42:33
+Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:42:33
+Lintang Bakso Ketintang,9XTIMD,03-03-2026,21:42:33,0-Nagih,Unbranded,0-Ekonomi,,,1,,Discount Karyawan,1000.0,1000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:42:33
+Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:25:11
+Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:25:11
+Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:25:11
+Lintang Bakso Ketintang,9XTIMC,03-03-2026,21:25:11,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:25:11
+Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Ekonomi,,,2,,0-C1/C2--1 rb,2000.0,153.85,0.0,1846.15,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:06:08
+Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:06:08
+Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Kotak,,,1,,0-C1/C2--1 rb,2000.0,153.85,0.0,1846.15,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:06:08
+Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:06:08
+Lintang Bakso Ketintang,9XTIMB,03-03-2026,21:06:08,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 21:06:08
+Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 20:43:48
+Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Kotak,,,3,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 20:43:48
+Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 20:43:48
+Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 20:43:48
+Lintang Bakso Ketintang,9XTIMA,03-03-2026,20:43:48,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 20:43:48
+Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 19:34:04
+Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 19:34:04
+Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 19:34:04
+Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 19:34:04
+Lintang Bakso Ketintang,9XTIM9,03-03-2026,19:34:04,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 19:34:04
+Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 19:32:05
+Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 19:32:05
+Lintang Bakso Ketintang,9XTIM8,03-03-2026,19:32:05,0-Nagih,Unbranded,0-Ekonomi,,,4,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 19:32:05
+Lintang Bakso Ketintang,9XTIM7,03-03-2026,17:05:07,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-03 17:05:07
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Kecil,,,1,,0-C1/C2--1 rb,2000.0,125.0,0.0,1875.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Kotak,,,2,,0-C1/C2--1 rb,4000.0,250.0,0.0,3750.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM6,03-03-2026,16:46:23,0-Nagih,Unbranded,0-Gorengan,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-03 16:46:23
+Lintang Bakso Ketintang,9XTIM5,02-03-2026,21:40:56,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 21:40:56
+Lintang Bakso Ketintang,9XTIM5,02-03-2026,21:40:56,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 21:40:56
+Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Ekonomi,,,7,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 19:29:10
+Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 19:29:10
+Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 19:29:10
+Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 19:29:10
+Lintang Bakso Ketintang,9XTIM4,02-03-2026,19:29:10,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 19:29:10
+Lintang Bakso Ketintang,9XTIM3,02-03-2026,18:47:36,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:47:36
+Lintang Bakso Ketintang,9XTIM3,02-03-2026,18:47:36,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:47:36
+Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Kotak,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:47:18
+Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:47:18
+Lintang Bakso Ketintang,9XTIM2,02-03-2026,18:47:18,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:47:18
+Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:34:39
+Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Tahu,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:34:39
+Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Somay,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:34:39
+Lintang Bakso Ketintang,9XTIM1,02-03-2026,18:34:39,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:34:39
+Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Tahu,,,3,,0-C1/C2--1 rb,9000.0,562.5,0.0,8437.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:31:44
+Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:31:44
+Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:31:44
+Lintang Bakso Ketintang,9XTIM0,02-03-2026,18:31:44,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:31:44
+Lintang Bakso Ketintang,9XTILZ,02-03-2026,18:20:12,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 18:20:12
+Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:11:44
+Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Somay,,,2,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:11:44
+Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Kecil,,,3,,0-C1/C2--1 rb,6000.0,375.0,0.0,5625.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:11:44
+Lintang Bakso Ketintang,9XTILY,02-03-2026,18:11:44,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:11:44
+Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:01:45
+Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:01:45
+Lintang Bakso Ketintang,9XTILX,02-03-2026,18:01:45,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-02 18:01:45
+Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 17:40:38
+Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Somay,,,3,,0-C1/C2--1 rb,9000.0,562.5,0.0,8437.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 17:40:38
+Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,62.5,0.0,937.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 17:40:38
+Lintang Bakso Ketintang,9XTILW,02-03-2026,17:40:38,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,187.5,0.0,2812.5,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-02 17:40:38
+Lintang Bakso Ketintang,9XTILV,01-03-2026,20:14:47,0-Nagih,Unbranded,0-Kecil,,,5,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 20:14:47
+Lintang Bakso Ketintang,9XTILU,01-03-2026,18:47:25,0-Nagih,Unbranded,0-Kotak,,,2,,Discount Karyawan,4000.0,3636.36,0.0,363.64,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 18:47:25
+Lintang Bakso Ketintang,9XTILU,01-03-2026,18:47:25,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,6363.64,0.0,636.36,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 18:47:25
+Lintang Bakso Ketintang,9XTILT,01-03-2026,17:56:51,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:56:51
+Lintang Bakso Ketintang,9XTILT,01-03-2026,17:56:51,0-Nagih,Unbranded,0-Kecil,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:56:51
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Kotak,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",2000.0,260.87,0.0,1739.13,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Kecil,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",2000.0,260.87,0.0,1739.13,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Somay,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILS,01-03-2026,17:38:35,0-Nagih,Unbranded,0-Ekonomi,,,4,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",4000.0,521.74,0.0,3478.26,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-03-01 17:38:35
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Jumbo,,,3,,,21000.0,0.0,0.0,21000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Besar,,,7,,,21000.0,0.0,0.0,21000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILR,01-03-2026,17:19:05,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 17:19:05
+Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Cilok,,,1,,0-C1/C2--2 rb,1000.0,142.86,0.0,857.14,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:44:46
+Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Ekonomi,,,6,,0-C1/C2--2 rb,6000.0,857.14,0.0,5142.86,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:44:46
+Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--2 rb,1000.0,142.86,0.0,857.14,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:44:46
+Lintang Bakso Ketintang,9XTILQ,01-03-2026,16:44:46,0-Nagih,Unbranded,0-Besar,,,2,,0-C1/C2--2 rb,6000.0,857.14,0.0,5142.86,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:44:46
+Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Gorengan,,,2,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:23:29
+Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Tahu,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:23:29
+Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:23:29
+Lintang Bakso Ketintang,9XTILP,01-03-2026,16:23:29,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 16:23:29
+Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 15:48:55
+Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 15:48:55
+Lintang Bakso Ketintang,9XTILO,01-03-2026,15:48:55,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-03-01 15:48:55
+Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-28 22:13:38
+Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-28 22:13:38
+Lintang Bakso Ketintang,9XTILN,28-02-2026,22:13:38,0-Nagih,Unbranded,0-Kecil,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-28 22:13:38
+Lintang Bakso Ketintang,9XTILM,28-02-2026,22:13:13,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 22:13:13
+Lintang Bakso Ketintang,9XTILM,28-02-2026,22:13:13,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 22:13:13
+Lintang Bakso Ketintang,9XTILL,28-02-2026,18:49:01,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 18:49:01
+Lintang Bakso Ketintang,9XTILL,28-02-2026,18:49:01,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 18:49:01
+Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 17:24:42
+Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 17:24:42
+Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 17:24:42
+Lintang Bakso Ketintang,9XTILK,28-02-2026,17:24:42,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 17:24:42
+Lintang Bakso Ketintang,9XTILJ,28-02-2026,17:09:40,0-Nagih,Unbranded,0-Ekonomi,,,10,,,10000.0,0.0,0.0,10000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 17:09:40
+Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Ekonomi,,,4,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 16:54:37
+Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 16:54:37
+Lintang Bakso Ketintang,9XTILI,28-02-2026,16:54:37,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-28 16:54:37
+Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:05:18
+Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Kotak,,,4,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:05:18
+Lintang Bakso Ketintang,9XTILH,26-02-2026,23:05:18,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:05:18
+Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:02:10
+Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:02:10
+Lintang Bakso Ketintang,9XTILG,26-02-2026,23:02:10,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 23:02:10
+Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:14:52
+Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:14:52
+Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:14:52
+Lintang Bakso Ketintang,9XTILF,26-02-2026,22:14:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:14:52
+Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Tahu,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:11:36
+Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:11:36
+Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:11:36
+Lintang Bakso Ketintang,9XTILE,26-02-2026,22:11:36,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:11:36
+Lintang Bakso Ketintang,9XTILD,26-02-2026,22:07:47,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:07:47
+Lintang Bakso Ketintang,9XTILD,26-02-2026,22:07:47,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:07:47
+Lintang Bakso Ketintang,9XTILC,26-02-2026,22:07:24,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:07:24
+Lintang Bakso Ketintang,9XTILC,26-02-2026,22:07:24,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 22:07:24
+Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Somay,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 21:58:01
+Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Gorengan,,,2,,0-C1/C2--1 rb,6000.0,461.54,0.0,5538.46,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 21:58:01
+Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Besar,,,1,,0-C1/C2--1 rb,3000.0,230.77,0.0,2769.23,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 21:58:01
+Lintang Bakso Ketintang,9XTILB,26-02-2026,21:58:01,0-Nagih,Unbranded,0-Ekonomi,,,1,,0-C1/C2--1 rb,1000.0,76.92,0.0,923.08,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 21:58:01
+Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:15:52
+Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:15:52
+Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:15:52
+Lintang Bakso Ketintang,9XTILA,26-02-2026,16:15:52,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:15:52
+Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:06:45
+Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:06:45
+Lintang Bakso Ketintang,9XTIL9,26-02-2026,16:06:45,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-26 16:06:45
+Lintang Bakso Ketintang,9XTIL8,25-02-2026,18:18:54,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:18:54
+Lintang Bakso Ketintang,9XTIL8,25-02-2026,18:18:54,0-Nagih,Unbranded,0-Somay,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:18:54
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL7,25-02-2026,18:03:45,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 18:03:45
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Gorengan,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Tahu,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Kecil,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Ekonomi,,,-1,,,0.0,0.0,1000.0,-1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Somay,,,-1,,,0.0,0.0,3000.0,-3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Kotak,,,-2,,,0.0,0.0,4000.0,-4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:53:57,0-Nagih,Unbranded,Full Refund for: 9XTIL5 - 0-Jumbo,,,-1,,,0.0,0.0,7000.0,-7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Refund,Cancelled Order,2026-02-25 17:53:57
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Besar,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,782.61,0.0,5217.39,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL6,25-02-2026,17:53:13,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:53:13
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL5,25-02-2026,17:51:49,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-25 17:51:49
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Besar,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,692.31,0.0,5307.69,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,807.69,0.0,6192.31,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,346.15,0.0,2653.85,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,115.39,0.0,884.62,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Tahu,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,346.15,0.0,2653.85,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL4,25-02-2026,17:20:56,0-Nagih,Unbranded,0-Gorengan,,,2,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",6000.0,692.31,0.0,5307.69,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-25 17:20:56
+Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:45:42
+Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:45:42
+Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:45:42
+Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:45:42
+Lintang Bakso Ketintang,9XTIL3,24-02-2026,21:45:42,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:45:42
+Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:03:30
+Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:03:30
+Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:03:30
+Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:03:30
+Lintang Bakso Ketintang,9XTIL2,24-02-2026,21:03:30,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 21:03:30
+Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Ekonomi,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",1000.0,130.44,0.0,869.57,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:38:49
+Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Gorengan,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:38:49
+Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Besar,,,3,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",9000.0,1173.91,0.0,7826.09,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:38:49
+Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Somay,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",3000.0,391.3,0.0,2608.7,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:38:49
+Lintang Bakso Ketintang,9XTIL1,24-02-2026,20:38:49,0-Nagih,Unbranded,0-Jumbo,,,1,,"0-C1/C2--1 rb, 0-C1/C2--2 rb",7000.0,913.04,0.0,6086.96,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:38:49
+Lintang Bakso Ketintang,9XTIL0,24-02-2026,20:26:25,0-Nagih,Unbranded,0-Besar,,,1,,Discount Karyawan,3000.0,3000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:26:25
+Lintang Bakso Ketintang,9XTIL0,24-02-2026,20:26:25,0-Nagih,Unbranded,0-Jumbo,,,1,,Discount Karyawan,7000.0,7000.0,0.0,0.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 20:26:25
+Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 19:21:47
+Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 19:21:47
+Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 19:21:47
+Lintang Bakso Ketintang,9XTIKZ,24-02-2026,19:21:47,Bakso,Unbranded,Bakso Jamur,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 19:21:47
+Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 18:16:28
+Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Besar,,,6,,,18000.0,0.0,0.0,18000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 18:16:28
+Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Jumbo,,,2,,,14000.0,0.0,0.0,14000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 18:16:28
+Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 18:16:28
+Lintang Bakso Ketintang,9XTIKY,24-02-2026,18:16:28,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-24 18:16:28
+Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Jumbo,,,1,,,7000.0,0.0,0.0,7000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-24 18:09:21
+Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Somay,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-24 18:09:21
+Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-24 18:09:21
+Lintang Bakso Ketintang,9XTIKX,24-02-2026,18:09:21,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-24 18:09:21
+Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:56:39
+Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:56:39
+Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:56:39
+Lintang Bakso Ketintang,9XTIKW,23-02-2026,21:56:39,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:56:39
+Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:52:48
+Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:52:48
+Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Kecil,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:52:48
+Lintang Bakso Ketintang,9XTIKV,23-02-2026,21:52:48,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 21:52:48
+Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Ekonomi,,,6,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 21:52:21
+Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 21:52:21
+Lintang Bakso Ketintang,9XTIKU,23-02-2026,21:52:21,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 21:52:21
+Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:30:33
+Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:30:33
+Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:30:33
+Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:30:33
+Lintang Bakso Ketintang,9XTIKT,23-02-2026,20:30:33,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:30:33
+Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Kotak,,,3,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:21:11
+Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:21:11
+Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:21:11
+Lintang Bakso Ketintang,9XTIKS,23-02-2026,20:21:11,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 20:21:11
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKR,23-02-2026,18:14:52,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:14:52
+Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Kotak,,,2,,,4000.0,0.0,0.0,4000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:11:53
+Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:11:53
+Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Ekonomi,,,3,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:11:53
+Lintang Bakso Ketintang,9XTIKQ,23-02-2026,18:11:53,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 18:11:53
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKP,23-02-2026,18:10:34,Bakso,Unbranded,Bakso Isi Keju,,,1,,,8000.0,0.0,0.0,8000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 18:10:34
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKO,23-02-2026,16:58:06,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-23 16:58:06
+Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Gorengan,,,4,,,12000.0,0.0,0.0,12000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 16:56:40
+Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 16:56:40
+Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 16:56:40
+Lintang Bakso Ketintang,9XTIKN,23-02-2026,16:56:40,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-23 16:56:40
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Ekonomi,,,2,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKM,22-02-2026,19:24:30,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-22 19:24:30
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Kecil,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKL,21-02-2026,22:00:42,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 22:00:42
+Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Kotak,,,1,,,2000.0,0.0,0.0,2000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-21 21:47:59
+Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Ekonomi,,,5,,,5000.0,0.0,0.0,5000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-21 21:47:59
+Lintang Bakso Ketintang,9XTIKK,21-02-2026,21:47:59,0-Nagih,Unbranded,0-Besar,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Gopay,Payment,,2026-02-21 21:47:59
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Gorengan,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKJ,21-02-2026,21:46:24,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:46:24
+Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:29:00
+Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:29:00
+Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:29:00
+Lintang Bakso Ketintang,9XTIKI,21-02-2026,21:29:00,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 21:29:00
+Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Ekonomi,,,7,,0-Diskon Nagih,7000.0,1400.0,0.0,5600.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 20:17:16
+Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Somay,,,1,,0-Diskon Nagih,3000.0,600.0,0.0,2400.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 20:17:16
+Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Kotak,,,1,,0-Diskon Nagih,2000.0,400.0,0.0,1600.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 20:17:16
+Lintang Bakso Ketintang,9XTIKH,21-02-2026,20:17:16,0-Nagih,Unbranded,0-Tahu,,,1,,0-Diskon Nagih,3000.0,600.0,0.0,2400.0,0.0,0.0,DINE IN,Reny Komar,,Cash,Payment,,2026-02-21 20:17:16
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Tahu,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Somay,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Gorengan,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Ekonomi,,,1,,,1000.0,0.0,0.0,1000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Besar,,,2,,,6000.0,0.0,0.0,6000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
+Lintang Bakso Ketintang,8AA62P,21-02-2026,19:25:54,0-Nagih,Unbranded,0-Nasi,,,1,,,3000.0,0.0,0.0,3000.0,0.0,0.0,DINE IN,Insan Admin,,Gopay,Payment,,2026-02-21 19:25:54
