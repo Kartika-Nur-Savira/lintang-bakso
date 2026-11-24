@@ -44,9 +44,18 @@ Struktur repositori dirancang modular, transparan, dan dapat direproduksi (*repr
 ```text
 lintang-bakso/
 ├── data/
-│   └── daily_item_demand.csv             # Dataset harian 69 produk (Jan–Sep 2026)
+│   ├── raw/
+│   │   └── sales_report.csv              # Data transaksi mentah dari mesin kasir APOS
+│   ├── processed/
+│   │   ├── sales_clean.csv               # Dataset hasil data cleaning (61.431 baris x 26 kolom)
+│   │   ├── sales_final.csv               # Dataset transaksi granular untuk dashboard & chatbot
+│   │   ├── sales_audit.csv               # Dataset jejak audit & rekonsiliasi keuangan
+│   │   ├── refunds.csv                   # Data audit transaksi refund
+│   │   └── dropped_nagih.csv             # Arsip transaksi uji coba warkop (0-Nagih)
+│   └── daily_item_demand.csv             # Dataset deret waktu harian untuk forecasting & BOM
 │
 ├── notebooks/
+│   ├── 00_cleaning_sales.ipynb           # Audit & Cleaning data kasir APOS
 │   ├── 01_data_understanding.ipynb       # Integritas data, evaluasi target & kuadran permintaan
 │   ├── 02_exploratory_data_analysis.ipynb# Analisis tren agregat, kategori, weekday vs weekend
 │   ├── 03_time_series_analysis.ipynb     # Dekomposisi aditif, uji ADF & correlogram ACF/PACF
@@ -58,28 +67,16 @@ lintang-bakso/
 │   ├── evaluation_results.csv            # Metrik evaluasi 4 fold (MAE, RMSE, WAPE, Bias)
 │   ├── forecast_7_days.csv               # Proyeksi 7 hari ke depan + Confidence Interval + Safety Stock
 │   └── figures/                          # 11 visualisasi riset resolusi tinggi (150 DPI)
-│       ├── 01_demand_tier_distribution.png
-│       ├── 02_aggregate_daily_demand_trend.png
-│       ├── 02_category_demand_distribution.png
-│       ├── 02_day_of_week_and_weekend_comparison.png
-│       ├── 02_representative_items_distributions_daypatterns.png
-│       ├── 02_representative_items_time_series_rolling.png
-│       ├── 03_differencing_rolling_comparison.png
-│       ├── 03_seasonal_decomposition_bakso_kecil.png
-│       ├── 03_seasonal_decomposition_other_tiers.png
-│       ├── 04_residual_diagnostics_bakso_kecil.png
-│       ├── 05_model_performance_comparison.png
-│       └── 05_forecast_7_days_ahead.png
 │
 ├── src/
-│   ├── __init__.py
+│   ├── __init__.py                       # Package initializer
 │   ├── preprocessing.py                  # Pemuatan data, imputasi hari libur, ekstraksi eksogen
 │   ├── modeling.py                       # Estimasi SARIMAX, grid search, diagnostik residual
-│   ├── evaluation.py                     # Perhitungan MAE/RMSE/WAPE & Rolling-Origin CV
-│   └── notebook_runner.py                # Eksekutor notebook otomatis dengan embedding grafik
+│   └── evaluation.py                     # Perhitungan MAE/RMSE/WAPE & Rolling-Origin CV
 │
 ├── PRD.md                                # Dokumen Persyaratan Produk (PRD v1.1)
 ├── cleaning_report.md                    # Laporan audit pembersihan data kasir APOS
+├── .gitignore                            # Konfigurasi pengabaian file sampah & cache
 └── README.md                             # Laporan komprehensif penelitian & operasional bisnis
 ```
 
@@ -215,21 +212,17 @@ Untuk menjalankan ulang seluruh proses eksperimen dan menghasilkan seluruh noteb
 pip install pandas numpy statsmodels scikit-learn scipy matplotlib seaborn jupyter nbformat nbclient
 ```
 
-### Eksekusi Otomatis
+### Eksekusi Notebook
+Notebook dapat langsung dibuka dan dijalankan secara interaktif melalui Jupyter Lab, Jupyter Notebook, atau ekstensi Jupyter di VS Code:
 ```bash
-# Set PYTHONPATH ke direktori root proyek
-export PYTHONPATH=. MPLCONFIGDIR=/tmp/matplotlib
-
-# 1. Jalankan pembentukan & eksekusi Notebook 01 s/d 03
-python3 src/build_01.py
-python3 src/build_02.py
-python3 src/build_03.py
-
-# 2. Jalankan pemodelan SARIMAX & diagnostik residual (Notebook 04)
-python3 src/build_04.py
-
-# 3. Jalankan validasi rolling-origin & proyeksi 7 hari ke depan (Notebook 05)
-python3 src/build_05.py
+# Buka lingkungan Jupyter
+jupyter lab
+# Atau buka notebook berurutan dari folder notebooks/:
+# 01_data_understanding.ipynb
+# 02_exploratory_data_analysis.ipynb
+# 03_time_series_analysis.ipynb
+# 04_sarimax_modeling.ipynb
+# 05_forecasting_evaluation.ipynb
 ```
 
-Setelah eksekusi selesai, seluruh 5 notebook di folder `notebooks/` akan berisi teks, tabel, dan grafik yang ter-render penuh, dan seluruh file CSV di folder `outputs/` akan diperbarui secara otomatis.
+Seluruh 5 notebook di folder `notebooks/` sudah terisi lengkap dengan kode, teks analisis berstandar akademik, grafik publikasi resolusi tinggi, serta output eksekusi yang tersimpan rapi.

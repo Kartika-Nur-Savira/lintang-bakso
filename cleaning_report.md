@@ -2,10 +2,10 @@
 
 **Kasus Bisnis:** Warung Bakso Lintang (Ketintang, Surabaya)  
 **Dokumen Acuan:** [PRD.md](PRD.md) v1.1 - Sistem Prediksi Stok & Business Intelligence  
-**File Input Mentah:** `sales_report.csv` (64,327 baris x 25 kolom)  
-**File Output Bersih:** `sales_clean.csv` (61,431 baris x 26 kolom)  
-**File Output Refund:** `refunds.csv` (149 baris)  
-**File Arsip Dropped Nagih:** `dropped_nagih.csv` (392 baris)  
+**File Input Mentah:** [`data/raw/sales_report.csv`](data/raw/sales_report.csv) (64,327 baris x 25 kolom)  
+**File Output Bersih:** [`data/processed/sales_clean.csv`](data/processed/sales_clean.csv) (61,431 baris x 26 kolom)  
+**File Output Refund:** [`data/processed/refunds.csv`](data/processed/refunds.csv) (149 baris)  
+**File Arsip Dropped Nagih:** [`data/processed/dropped_nagih.csv`](data/processed/dropped_nagih.csv) (392 baris)  
 **Tanggal Eksekusi:** 2026-11-10 16:32:13  
 
 ---
@@ -165,6 +165,6 @@ Berikut adalah 4 poin keputusan operasional yang perlu dikonfirmasi pemilik waru
 ## 6. Berkas Output Siap-Pakai (Ready-to-Use Outputs)
 
 Dataset bersih final diturunkan menjadi 3 file spesifik untuk mendukung kebutuhan operasional downstream:
-1. **`sales_final.csv`** (61,431 baris x 24 kolom): Dataset transaksi granular terstandarisasi snake_case dengan `row_id` sekuensial (1..N) untuk dashboard visualisasi dan chatbot Supabase.
-2. **`sales_audit.csv`** (61,431 baris x 9 kolom): Dataset audit internal untuk menelusuri nomor struk, baris teragregasi (`merged_row_count`), alasan refund mentah, anomali, dan selisih formula keuangan (`net_diff`).
-3. **`daily_item_demand.csv`** (18.423 baris: 267 hari x 69 menu): Dataset deret waktu harian per menu untuk peramalan permintaan (*forecasting*) dan penyusunan Bill of Materials (BOM), mencakup pemisahan 264 hari buka dan 3 hari tutup, porsi reguler, porsi refund pengurangan bahan, porsi gratis, serta penanda menu jarang terjual (`is_sparse_item`).
+1. **[`data/processed/sales_final.csv`](data/processed/sales_final.csv)** (61,431 baris x 24 kolom): Dataset transaksi granular terstandarisasi snake_case dengan `row_id` sekuensial (1..N) untuk dashboard visualisasi dan chatbot Supabase.
+2. **[`data/processed/sales_audit.csv`](data/processed/sales_audit.csv)** (61,431 baris x 9 kolom): Dataset audit internal untuk menelusuri nomor struk, baris teragregasi (`merged_row_count`), alasan refund mentah, anomali, dan selisih formula keuangan (`net_diff`).
+3. **[`data/daily_item_demand.csv`](data/daily_item_demand.csv)** (18.423 baris: 267 hari x 69 menu): Dataset deret waktu harian per menu untuk peramalan permintaan (*forecasting*) dan penyusunan Bill of Materials (BOM), mencakup pemisahan 264 hari buka dan 3 hari tutup, porsi reguler, porsi refund pengurangan bahan, porsi gratis, serta penanda menu jarang terjual (`is_sparse_item`).
