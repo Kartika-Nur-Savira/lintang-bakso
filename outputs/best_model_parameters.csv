@@ -1,0 +1,70 @@
+item_name,category,demand_tier,mean_daily_qty,zero_pct,sarima_order,sarima_seasonal,sarima_aic,sarimax_order,sarimax_seasonal,sarimax_aic,delta_aic,preferred_model
+Bakso Kecil,Bakso,High Demand,51.43,0.38,"(0, 1, 1)","(0, 1, 1, 7)",2287.08,"(0, 1, 1)","(0, 1, 1, 7)",2302.88,-15.8,SARIMA
+Mie Kuning/Putih,Bakso,High Demand,30.68,0.0,"(0, 1, 1)","(0, 1, 1, 7)",1936.09,"(0, 1, 1)","(0, 1, 1, 7)",1951.58,-15.49,SARIMA
+Es Teh/Lemontea Refill,Minuman,High Demand,28.98,0.0,"(0, 1, 1)","(0, 1, 1, 7)",1828.5,"(0, 1, 1)","(0, 1, 1, 7)",1844.49,-15.99,SARIMA
+Tahu,Bakso,High Demand,21.09,0.38,"(0, 1, 1)","(0, 1, 1, 7)",1847.19,"(0, 1, 1)","(0, 1, 1, 7)",1861.42,-14.22,SARIMA
+Bakso Urat Kecil,Bakso,High Demand,19.7,0.0,"(0, 1, 1)","(0, 1, 1, 7)",1930.46,"(0, 1, 1)","(0, 1, 1, 7)",1940.83,-10.37,SARIMA
+Mie Ayam,Mie,High Demand,18.8,2.65,"(1, 1, 1)","(1, 1, 1, 7)",1797.33,"(1, 1, 1)","(1, 1, 1, 7)",1812.71,-15.38,SARIMA
+Somay,Bakso,High Demand,18.77,1.14,"(0, 1, 1)","(0, 1, 1, 7)",1753.36,"(0, 1, 1)","(0, 1, 1, 7)",1768.29,-14.93,SARIMA
+Bakso Isi Keju,Bakso,High Demand,17.72,0.0,"(0, 1, 1)","(0, 1, 1, 7)",1670.42,"(0, 1, 1)","(0, 1, 1, 7)",1686.1,-15.68,SARIMA
+Goreng Panjang,Gorengan,High Demand,12.41,1.52,"(0, 1, 1)","(0, 1, 1, 7)",1578.1,"(0, 1, 1)","(0, 1, 1, 7)",1593.51,-15.41,SARIMA
+Kemasan,Tambahan,High Demand,12.0,1.14,"(0, 1, 1)","(0, 1, 1, 7)",1732.13,"(0, 1, 1)","(0, 1, 1, 7)",1747.31,-15.18,SARIMA
+Bakso Goreng,Gorengan,High Demand,11.71,6.82,"(0, 1, 1)","(0, 1, 1, 7)",1486.98,"(0, 1, 1)","(0, 1, 1, 7)",1498.29,-11.31,SARIMA
+Bakso Jamur,Bakso,High Demand,11.66,0.38,"(0, 1, 1)","(0, 1, 1, 7)",1562.77,"(0, 1, 1)","(0, 1, 1, 7)",1578.24,-15.47,SARIMA
+Goreng Kembang,Gorengan,High Demand,11.47,3.41,"(1, 1, 1)","(1, 1, 1, 7)",1523.31,"(1, 1, 1)","(1, 1, 1, 7)",1538.36,-15.05,SARIMA
+Isi Telor Puyuh,Bakso,High Demand,10.13,0.0,"(0, 1, 1)","(0, 1, 1, 7)",1525.2,"(0, 1, 1)","(0, 1, 1, 7)",1540.73,-15.53,SARIMA
+Bakso Urat Jumbo,Bakso,Medium Demand,9.36,1.89,"(0, 1, 1)","(0, 1, 1, 7)",1493.6,"(0, 1, 1)","(0, 1, 1, 7)",1509.42,-15.82,SARIMA
+Tahu Putih,Bakso,Medium Demand,7.97,10.61,"(0, 1, 1)","(0, 1, 1, 7)",1504.81,"(0, 1, 1)","(0, 1, 1, 7)",1520.74,-15.93,SARIMA
+Bakso Jumbo Merekah,Bakso,Medium Demand,7.52,8.71,"(1, 1, 1)","(1, 1, 1, 7)",1570.67,"(1, 1, 1)","(1, 1, 1, 7)",1585.89,-15.22,SARIMA
+Goreng Isi Ayam,Gorengan,Medium Demand,6.96,4.92,"(1, 1, 1)","(1, 1, 1, 7)",1423.96,"(1, 1, 1)","(1, 1, 1, 7)",1439.28,-15.32,SARIMA
+Air Mineral,Minuman,Medium Demand,6.94,0.76,"(0, 1, 1)","(0, 1, 1, 7)",1402.49,"(0, 1, 1)","(0, 1, 1, 7)",1417.8,-15.31,SARIMA
+Bakso Pedas,Bakso,Medium Demand,6.84,67.8,"(0, 1, 1)","(0, 1, 1, 7)",1529.48,"(0, 1, 1)","(0, 1, 1, 7)",1539.7,-10.22,SARIMA
+Lontong,Tambahan,Medium Demand,5.93,3.41,"(0, 1, 1)","(0, 1, 1, 7)",1297.17,"(0, 1, 1)","(0, 1, 1, 7)",1312.95,-15.78,SARIMA
+Pangsit Mie,Mie,Medium Demand,5.81,6.44,"(0, 1, 1)","(0, 1, 1, 7)",1366.96,"(0, 1, 1)","(0, 1, 1, 7)",1382.94,-15.98,SARIMA
+Bakso Mercon Besar,Bakso,Medium Demand,3.92,38.26,"(0, 1, 1)","(0, 1, 1, 7)",1237.82,"(0, 1, 1)","(0, 1, 1, 7)",1253.34,-15.52,SARIMA
+Es Teler Regular,Minuman,Medium Demand,2.58,78.41,"(0, 1, 1)","(0, 1, 1, 7)",1354.56,"(0, 1, 1)","(0, 1, 1, 7)",1370.56,-16.0,SARIMA
+Halus Special,Bakso,Medium Demand,2.52,53.79,"(0, 1, 1)","(0, 1, 1, 7)",1362.63,"(0, 1, 1)","(0, 1, 1, 7)",1377.46,-14.83,SARIMA
+Bakso Telur Asin,Bakso,Medium Demand,2.48,12.12,"(1, 1, 1)","(1, 1, 1, 7)",1021.75,"(1, 0, 1)","(1, 0, 0, 7)",1036.99,-15.24,SARIMA
+Es Jeruk,Minuman,Medium Demand,2.41,14.39,"(0, 1, 1)","(0, 1, 1, 7)",1063.68,"(0, 1, 1)","(0, 1, 1, 7)",1079.24,-15.56,SARIMA
+Isi Telor Ayam,Bakso,Medium Demand,2.1,15.91,"(1, 1, 1)","(1, 1, 1, 7)",1007.95,"(2, 0, 1)","(1, 0, 1, 7)",1020.46,-12.51,SARIMA
+Mie Gebres,Mie,Medium Demand,2.05,23.48,"(0, 1, 1)","(0, 1, 1, 7)",1074.82,"(0, 1, 1)","(0, 1, 1, 7)",1090.8,-15.97,SARIMA
+Miki Miki Stik,Ice Cream Aice,Medium Demand,1.86,42.42,"(1, 1, 1)","(1, 1, 1, 7)",1269.69,"(1, 1, 1)","(1, 1, 1, 7)",1285.57,-15.89,SARIMA
+Teh Hangat,Minuman,Medium Demand,1.72,24.24,"(0, 1, 1)","(0, 1, 1, 7)",953.29,"(2, 0, 1)","(1, 0, 1, 7)",964.4,-11.1,SARIMA
+Sweet Corn,Ice Cream Aice,Medium Demand,1.61,45.45,"(0, 1, 1)","(0, 1, 1, 7)",1135.06,"(0, 1, 1)","(0, 1, 1, 7)",1149.02,-13.96,SARIMA
+Jeruk Hangat,Minuman,Medium Demand,1.22,36.74,"(0, 1, 1)","(0, 1, 1, 7)",855.09,"(2, 0, 1)","(1, 0, 1, 7)",864.07,-8.98,SARIMA
+Choco Malt,Ice Cream Aice,Medium Demand,1.07,61.74,"(0, 1, 1)","(0, 1, 1, 7)",1040.26,"(0, 1, 1)","(0, 1, 1, 7)",1052.13,-11.87,SARIMA
+Miki Double Choco,Ice Cream Aice,Low Demand,0.99,59.09,"(2, 0, 1)","(1, 0, 1, 7)",1011.45,"(2, 0, 1)","(1, 0, 1, 7)",1019.63,-8.18,SARIMA
+Kuah Pedas,Tambahan,Low Demand,0.91,79.92,"(2, 0, 1)","(1, 0, 1, 7)",817.34,"(2, 0, 1)","(1, 0, 1, 7)",831.03,-13.69,SARIMA
+Coffee Crispy,Ice Cream Aice,Low Demand,0.9,59.85,"(0, 1, 1)","(0, 1, 1, 7)",1026.33,"(1, 0, 0)","(1, 0, 0, 7)",1036.64,-10.31,SARIMA
+Urat Merekah,Bakso,Sparse Demand,0.88,92.42,"(1, 1, 1)","(1, 1, 1, 7)",1503.95,"(1, 1, 1)","(1, 1, 1, 7)",1519.94,-15.99,SARIMA
+Tetelan,Tambahan,Low Demand,0.8,70.45,"(1, 1, 1)","(1, 1, 1, 7)",817.51,"(1, 1, 1)","(1, 1, 1, 7)",833.46,-15.94,SARIMA
+Strawbery Crispy,Ice Cream Aice,Low Demand,0.78,73.86,"(1, 1, 1)","(1, 1, 1, 7)",1095.36,"(2, 0, 1)","(1, 0, 1, 7)",1105.68,-10.32,SARIMA
+Bakso Jagung,Bakso,Low Demand,0.59,71.59,"(1, 0, 1)","(1, 0, 0, 7)",696.11,"(1, 0, 1)","(1, 0, 0, 7)",704.94,-8.83,SARIMA
+Bakso Kotak,Bakso,Low Demand,0.57,85.23,"(2, 0, 1)","(1, 0, 1, 7)",771.11,"(2, 0, 1)","(1, 0, 1, 7)",779.42,-8.31,SARIMA
+Sundae Coklat,Ice Cream Aice,Low Demand,0.57,72.73,"(2, 0, 1)","(1, 0, 1, 7)",816.29,"(2, 0, 1)","(1, 0, 1, 7)",811.71,4.58,SARIMAX
+Nanas Stik,Ice Cream Aice,Low Demand,0.5,73.86,"(0, 1, 1)","(0, 1, 1, 7)",866.34,"(1, 0, 0)","(1, 0, 0, 7)",873.27,-6.94,SARIMA
+Es Teler Large,Minuman,Low Demand,0.5,83.33,"(2, 0, 1)","(1, 0, 1, 7)",713.99,"(2, 0, 1)","(1, 0, 1, 7)",725.11,-11.12,SARIMA
+Bakso Bulan Gemoy,Bakso,Sparse Demand,0.45,96.97,"(1, 0, 1)","(1, 0, 0, 7)",1237.37,"(1, 0, 1)","(1, 0, 0, 7)",1245.83,-8.46,SARIMA
+Teh Botol,Minuman,Low Demand,0.42,69.7,"(1, 0, 1)","(1, 0, 0, 7)",602.12,"(0, 0, 0)","(1, 0, 0, 7)",603.17,-1.05,SARIMA
+Teh Hangat Tawar,Minuman,Low Demand,0.42,70.45,"(0, 1, 1)","(0, 1, 1, 7)",601.49,"(2, 0, 1)","(1, 0, 1, 7)",600.69,0.81,SARIMA
+Semangka Stik,Ice Cream Aice,Low Demand,0.41,79.55,"(2, 0, 1)","(1, 0, 1, 7)",725.46,"(1, 0, 0)","(1, 0, 0, 7)",734.55,-9.09,SARIMA
+Es Teh Tawar,Minuman,Low Demand,0.35,71.97,"(0, 1, 1)","(0, 1, 1, 7)",472.48,"(0, 1, 1)","(0, 1, 1, 7)",486.67,-14.19,SARIMA
+Mie Spicy Barbeque,Mie,Low Demand,0.35,73.86,"(2, 0, 1)","(1, 0, 1, 7)",507.68,"(0, 0, 0)","(1, 0, 0, 7)",526.45,-18.78,SARIMA
+Chocolate Crispy,Ice Cream Aice,Low Demand,0.32,84.09,"(2, 0, 1)","(1, 0, 1, 7)",602.59,"(2, 0, 1)","(1, 0, 1, 7)",603.17,-0.58,SARIMA
+Mie Barbeque,Mie,Low Demand,0.28,78.41,"(1, 0, 1)","(1, 0, 0, 7)",475.27,"(1, 0, 1)","(1, 0, 0, 7)",483.94,-8.67,SARIMA
+Mie Blackpepper,Mie,Low Demand,0.28,77.65,"(2, 0, 1)","(1, 0, 1, 7)",431.18,"(1, 1, 1)","(1, 1, 1, 7)",457.83,-26.64,SARIMA
+Fruizzy Grape,Ice Cream Aice,Low Demand,0.2,89.77,"(2, 0, 1)","(1, 0, 1, 7)",490.82,"(2, 0, 1)","(1, 0, 1, 7)",499.6,-8.78,SARIMA
+Mochi Coklat,Ice Cream Aice,Low Demand,0.17,89.77,"(2, 0, 1)","(1, 0, 1, 7)",427.82,"(1, 0, 1)","(1, 0, 0, 7)",437.85,-10.03,SARIMA
+Sundae Strawberry,Ice Cream Aice,Low Demand,0.17,89.02,"(1, 0, 1)","(1, 0, 0, 7)",390.07,"(1, 0, 1)","(1, 0, 0, 7)",397.68,-7.61,SARIMA
+Jeruk Stik,Ice Cream Aice,Sparse Demand,0.14,90.53,"(2, 0, 1)","(1, 0, 1, 7)",317.44,"(2, 0, 1)","(1, 0, 1, 7)",320.94,-3.5,SARIMA
+Taro Crispy,Ice Cream Aice,Sparse Demand,0.12,94.7,"(2, 0, 1)","(1, 0, 1, 7)",358.42,"(2, 0, 1)","(1, 0, 1, 7)",353.76,4.66,SARIMAX
+Merapi Beranak,Bakso,Sparse Demand,0.12,91.67,"(2, 0, 1)","(1, 0, 1, 7)",-13.03,"(2, 0, 1)","(1, 0, 1, 7)",3.68,-16.7,SARIMA
+Air Putih,Minuman,Sparse Demand,0.09,92.8,"(1, 0, 1)","(1, 0, 0, 7)",219.29,"(1, 0, 0)","(0, 0, 0, 7)",215.9,3.39,SARIMAX
+Mochi Vanila,Ice Cream Aice,Sparse Demand,0.09,93.56,"(1, 0, 1)","(1, 0, 0, 7)",219.44,"(1, 0, 1)","(1, 0, 0, 7)",227.98,-8.54,SARIMA
+Bingo Cone,Ice Cream Aice,Sparse Demand,0.08,97.35,"(1, 0, 0)","(1, 0, 0, 7)",421.22,"(1, 0, 0)","(1, 0, 0, 7)",429.56,-8.33,SARIMA
+Choco Melt,Ice Cream Aice,Sparse Demand,0.08,98.86,"(1, 0, 1)","(1, 0, 0, 7)",606.95,"(1, 0, 1)","(1, 0, 0, 7)",615.03,-8.08,SARIMA
+Crispy Balls,Ice Cream Aice,Sparse Demand,0.07,97.35,"(2, 0, 1)","(1, 0, 1, 7)",318.91,"(2, 0, 1)","(1, 0, 1, 7)",325.69,-6.78,SARIMA
+Bakso Beranak,Bakso,Sparse Demand,0.05,95.08,"(2, 0, 1)","(1, 0, 1, 7)",-90.23,"(1, 0, 1)","(1, 0, 0, 7)",-60.46,-29.77,SARIMA
+Markisa Stik,Ice Cream Aice,Sparse Demand,0.01,99.24,"(1, 0, 0)","(0, 0, 0, 7)",-541.96,"(1, 0, 0)","(0, 0, 0, 7)",-533.05,-8.91,SARIMA
+Ceker,Tambahan,Sparse Demand,0.01,99.24,"(1, 0, 1)","(1, 0, 0, 7)",-691.86,"(1, 0, 1)","(1, 0, 0, 7)",-683.53,-8.34,SARIMA
+Mie Teriyaki,Mie,Sparse Demand,0.0,99.62,"(1, 1, 1)","(1, 1, 1, 7)",-1044.53,"(1, 1, 1)","(1, 1, 1, 7)",-1027.9,-16.62,SARIMA

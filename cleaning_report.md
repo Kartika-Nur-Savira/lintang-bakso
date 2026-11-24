@@ -78,7 +78,10 @@ Berikut adalah dokumentasi terstruktur untuk setiap isu kualitas data yang ditem
 
 ### I. Penanda Kategori Menu Khusus (`Item_Flag`)
 - **Kondisi Awal:** Menu paket (`Bundle_Package`) dan input manual kasir (`Uncategorized`) belum memiliki label pembeda eksplisit dari menu satuan standar.
-- **Penanganan:** Membentuk kolom `Item_Flag` berbasis kolom `Category`: `"Uncategorized"` $ightarrow$ `"Custom Amount"`, `"Bundle_Package"` $ightarrow$ `"Bundle"`, dan kategori lainnya $ightarrow$ `"Normal"`.
+- **Penanganan:** Membentuk kolom `Item_Flag` berbasis kolom `Category`: `"Uncategorized"` $
+ightarrow$ `"Custom Amount"`, `"Bundle_Package"` $
+ightarrow$ `"Bundle"`, dan kategori lainnya $
+ightarrow$ `"Normal"`.
 - **Alasan:** Memudahkan pemisahan data pada model peramalan bahan baku dapur (menu *Bundle* memerlukan dekomposisi resep multi-item, sedangkan *Custom Amount* tidak memiliki resep fisik).
 - **Hasil:** Terpetakan 80 baris *Bundle*, 34 baris *Custom Amount*, dan 61,317 baris *Normal*.
 

@@ -1,0 +1,49 @@
+fold,model,val_start,val_end,MAE,RMSE,WAPE,Bias,item_name,tier
+1,Seasonal Naive,2026-08-28,2026-09-03,15.2857,17.6352,49.54,6.7143,Bakso Kecil,High Demand
+1,SARIMA,2026-08-28,2026-09-03,16.2161,17.8998,52.55,14.535,Bakso Kecil,High Demand
+1,SARIMAX,2026-08-28,2026-09-03,16.1914,17.8779,52.47,14.4904,Bakso Kecil,High Demand
+2,Seasonal Naive,2026-09-04,2026-09-10,27.0,31.0736,57.8,-15.8571,Bakso Kecil,High Demand
+2,SARIMA,2026-09-04,2026-09-10,17.0981,19.9974,36.6,-8.7087,Bakso Kecil,High Demand
+2,SARIMAX,2026-09-04,2026-09-10,17.0915,20.0052,36.59,-8.7561,Bakso Kecil,High Demand
+3,Seasonal Naive,2026-09-11,2026-09-17,17.1429,23.2133,30.38,-9.7143,Bakso Kecil,High Demand
+3,SARIMA,2026-09-11,2026-09-17,21.9518,26.5582,38.9,-15.6403,Bakso Kecil,High Demand
+3,SARIMAX,2026-09-11,2026-09-17,21.9704,26.5727,38.93,-15.6645,Bakso Kecil,High Demand
+4,Seasonal Naive,2026-09-18,2026-09-24,22.4286,25.9312,41.53,2.4286,Bakso Kecil,High Demand
+4,SARIMA,2026-09-18,2026-09-24,14.0265,20.9509,25.98,-7.1854,Bakso Kecil,High Demand
+4,SARIMAX,2026-09-18,2026-09-24,13.9983,20.9233,25.92,-7.175,Bakso Kecil,High Demand
+1,Seasonal Naive,2026-08-28,2026-09-03,1.4286,1.6903,90.91,0.5714,Bakso Telur Asin,Medium Demand
+1,SARIMA,2026-08-28,2026-09-03,1.3765,1.6383,87.59,0.8146,Bakso Telur Asin,Medium Demand
+1,SARIMAX,2026-08-28,2026-09-03,1.1992,1.4669,76.31,0.9333,Bakso Telur Asin,Medium Demand
+2,Seasonal Naive,2026-09-04,2026-09-10,1.4286,1.6903,76.92,-0.2857,Bakso Telur Asin,Medium Demand
+2,SARIMA,2026-09-04,2026-09-10,0.5166,0.6436,27.81,0.2487,Bakso Telur Asin,Medium Demand
+2,SARIMAX,2026-09-04,2026-09-10,0.9065,1.0723,48.81,0.4797,Bakso Telur Asin,Medium Demand
+3,Seasonal Naive,2026-09-11,2026-09-17,0.8571,1.069,40.0,-0.2857,Bakso Telur Asin,Medium Demand
+3,SARIMA,2026-09-11,2026-09-17,0.4839,0.8581,22.58,-0.1774,Bakso Telur Asin,Medium Demand
+3,SARIMAX,2026-09-11,2026-09-17,0.625,0.8552,29.17,0.0591,Bakso Telur Asin,Medium Demand
+4,Seasonal Naive,2026-09-18,2026-09-24,1.5714,1.8898,68.75,-0.1429,Bakso Telur Asin,Medium Demand
+4,SARIMA,2026-09-18,2026-09-24,1.0988,1.3787,48.07,-0.2771,Bakso Telur Asin,Medium Demand
+4,SARIMAX,2026-09-18,2026-09-24,1.098,1.2726,48.04,-0.0362,Bakso Telur Asin,Medium Demand
+1,Seasonal Naive,2026-08-28,2026-09-03,0.1429,0.378,100.0,0.1429,Mie Spicy Barbeque,Low Demand
+1,SARIMA,2026-08-28,2026-09-03,0.027,0.0716,100.0,0.027,Mie Spicy Barbeque,Low Demand
+1,SARIMAX,2026-08-28,2026-09-03,0.3422,0.3501,100.0,0.3422,Mie Spicy Barbeque,Low Demand
+2,Seasonal Naive,2026-09-04,2026-09-10,0.1429,0.378,100.0,-0.1429,Mie Spicy Barbeque,Low Demand
+2,SARIMA,2026-09-04,2026-09-10,0.1429,0.378,100.0,-0.1429,Mie Spicy Barbeque,Low Demand
+2,SARIMAX,2026-09-04,2026-09-10,0.3645,0.3852,255.13,0.1866,Mie Spicy Barbeque,Low Demand
+3,Seasonal Naive,2026-09-11,2026-09-17,0.2857,0.5345,200.0,0.0,Mie Spicy Barbeque,Low Demand
+3,SARIMA,2026-09-11,2026-09-17,0.1697,0.3846,118.82,-0.116,Mie Spicy Barbeque,Low Demand
+3,SARIMAX,2026-09-11,2026-09-17,0.3708,0.3959,259.54,0.1823,Mie Spicy Barbeque,Low Demand
+4,Seasonal Naive,2026-09-18,2026-09-24,0.4286,0.6547,150.0,-0.1429,Mie Spicy Barbeque,Low Demand
+4,SARIMA,2026-09-18,2026-09-24,0.3124,0.5392,109.36,-0.259,Mie Spicy Barbeque,Low Demand
+4,SARIMAX,2026-09-18,2026-09-24,0.4186,0.454,146.52,0.0345,Mie Spicy Barbeque,Low Demand
+1,Seasonal Naive,2026-08-28,2026-09-03,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
+1,SARIMA,2026-08-28,2026-09-03,0.0087,0.0087,100.0,0.0087,Bakso Beranak,Sparse Demand
+1,SARIMAX,2026-08-28,2026-09-03,0.0089,0.014,100.0,0.0089,Bakso Beranak,Sparse Demand
+2,Seasonal Naive,2026-09-04,2026-09-10,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
+2,SARIMA,2026-09-04,2026-09-10,0.0084,0.0084,100.0,0.0084,Bakso Beranak,Sparse Demand
+2,SARIMAX,2026-09-04,2026-09-10,0.0087,0.0137,100.0,0.0087,Bakso Beranak,Sparse Demand
+3,Seasonal Naive,2026-09-11,2026-09-17,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
+3,SARIMA,2026-09-11,2026-09-17,0.0081,0.0082,100.0,0.0081,Bakso Beranak,Sparse Demand
+3,SARIMAX,2026-09-11,2026-09-17,0.0084,0.0132,100.0,0.0084,Bakso Beranak,Sparse Demand
+4,Seasonal Naive,2026-09-18,2026-09-24,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
+4,SARIMA,2026-09-18,2026-09-24,0.0079,0.0079,100.0,0.0079,Bakso Beranak,Sparse Demand
+4,SARIMAX,2026-09-18,2026-09-24,0.0081,0.0128,100.0,0.0081,Bakso Beranak,Sparse Demand

@@ -1,0 +1,484 @@
+date,item_name,category,demand_tier,model_used,actual,forecast,ci_lower,ci_upper,forecast_rounded,forecast_safe_stock
+2026-09-25,Bakso Kecil,Bakso,High Demand,SARIMA,,45.85,1.45,90.25,46,46
+2026-09-26,Bakso Kecil,Bakso,High Demand,SARIMA,,58.63,14.16,103.11,59,59
+2026-09-27,Bakso Kecil,Bakso,High Demand,SARIMA,,66.35,21.8,110.9,66,67
+2026-09-28,Bakso Kecil,Bakso,High Demand,SARIMA,,47.16,2.54,91.79,47,48
+2026-09-29,Bakso Kecil,Bakso,High Demand,SARIMA,,40.36,0.0,85.06,40,41
+2026-09-30,Bakso Kecil,Bakso,High Demand,SARIMA,,48.36,3.59,93.14,48,49
+2026-10-01,Bakso Kecil,Bakso,High Demand,SARIMA,,40.95,0.0,85.81,41,41
+2026-09-25,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,26.51,4.59,48.44,27,27
+2026-09-26,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,28.14,6.06,50.21,28,29
+2026-09-27,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,37.53,15.3,59.76,38,38
+2026-09-28,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,24.52,2.15,46.9,25,25
+2026-09-29,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,26.38,3.86,48.91,26,27
+2026-09-30,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,27.1,4.43,49.77,27,28
+2026-10-01,Mie Kuning/Putih,Bakso,High Demand,SARIMA,,24.2,1.38,47.01,24,25
+2026-09-25,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,17.66,0.02,35.3,18,18
+2026-09-26,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,20.02,2.21,37.84,20,21
+2026-09-27,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,25.21,7.22,43.2,25,26
+2026-09-28,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,20.02,1.86,38.19,20,21
+2026-09-29,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,20.76,2.43,39.1,21,21
+2026-09-30,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,21.34,2.84,39.84,21,22
+2026-10-01,Es Teh/Lemontea Refill,Minuman,High Demand,SARIMA,,18.34,0.0,37.01,18,19
+2026-09-25,Tahu,Bakso,High Demand,SARIMA,,14.15,0.0,32.48,14,15
+2026-09-26,Tahu,Bakso,High Demand,SARIMA,,14.1,0.0,32.7,14,15
+2026-09-27,Tahu,Bakso,High Demand,SARIMA,,20.05,1.17,38.93,20,21
+2026-09-28,Tahu,Bakso,High Demand,SARIMA,,12.52,0.0,31.68,13,13
+2026-09-29,Tahu,Bakso,High Demand,SARIMA,,15.86,0.0,35.29,16,16
+2026-09-30,Tahu,Bakso,High Demand,SARIMA,,16.94,0.0,36.63,17,17
+2026-10-01,Tahu,Bakso,High Demand,SARIMA,,13.21,0.0,33.16,13,14
+2026-09-25,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,18.07,0.0,39.72,18,19
+2026-09-26,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,18.73,0.0,40.85,19,19
+2026-09-27,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,18.49,0.0,41.08,18,19
+2026-09-28,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,13.97,0.0,37.01,14,14
+2026-09-29,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,17.86,0.0,41.35,18,18
+2026-09-30,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,18.18,0.0,42.11,18,19
+2026-10-01,Bakso Urat Kecil,Bakso,High Demand,SARIMA,,16.7,0.0,41.07,17,17
+2026-09-25,Mie Ayam,Mie,High Demand,SARIMA,,14.44,0.0,30.82,14,15
+2026-09-26,Mie Ayam,Mie,High Demand,SARIMA,,15.99,0.0,32.83,16,16
+2026-09-27,Mie Ayam,Mie,High Demand,SARIMA,,21.35,4.39,38.31,21,22
+2026-09-28,Mie Ayam,Mie,High Demand,SARIMA,,17.18,0.14,34.22,17,18
+2026-09-29,Mie Ayam,Mie,High Demand,SARIMA,,17.91,0.79,35.03,18,18
+2026-09-30,Mie Ayam,Mie,High Demand,SARIMA,,21.03,3.83,38.23,21,22
+2026-10-01,Mie Ayam,Mie,High Demand,SARIMA,,15.7,0.0,32.97,16,16
+2026-09-25,Somay,Bakso,High Demand,SARIMA,,13.0,0.0,28.22,13,13
+2026-09-26,Somay,Bakso,High Demand,SARIMA,,15.42,0.12,30.72,15,16
+2026-09-27,Somay,Bakso,High Demand,SARIMA,,17.91,2.54,33.28,18,18
+2026-09-28,Somay,Bakso,High Demand,SARIMA,,12.92,0.0,28.36,13,13
+2026-09-29,Somay,Bakso,High Demand,SARIMA,,16.33,0.81,31.85,16,17
+2026-09-30,Somay,Bakso,High Demand,SARIMA,,15.82,0.22,31.41,16,16
+2026-10-01,Somay,Bakso,High Demand,SARIMA,,12.74,0.0,28.4,13,13
+2026-09-25,Bakso Isi Keju,Bakso,High Demand,SARIMA,,17.02,4.19,29.86,17,18
+2026-09-26,Bakso Isi Keju,Bakso,High Demand,SARIMA,,17.6,4.73,30.47,18,18
+2026-09-27,Bakso Isi Keju,Bakso,High Demand,SARIMA,,23.86,10.95,36.77,24,24
+2026-09-28,Bakso Isi Keju,Bakso,High Demand,SARIMA,,15.02,2.07,27.97,15,16
+2026-09-29,Bakso Isi Keju,Bakso,High Demand,SARIMA,,15.97,2.98,28.95,16,16
+2026-09-30,Bakso Isi Keju,Bakso,High Demand,SARIMA,,15.44,2.42,28.47,15,16
+2026-10-01,Bakso Isi Keju,Bakso,High Demand,SARIMA,,15.65,2.59,28.71,16,16
+2026-09-25,Goreng Panjang,Gorengan,High Demand,SARIMA,,11.21,0.53,21.88,11,12
+2026-09-26,Goreng Panjang,Gorengan,High Demand,SARIMA,,12.39,1.68,23.1,12,13
+2026-09-27,Goreng Panjang,Gorengan,High Demand,SARIMA,,14.44,3.69,25.19,14,15
+2026-09-28,Goreng Panjang,Gorengan,High Demand,SARIMA,,10.47,0.0,21.26,10,11
+2026-09-29,Goreng Panjang,Gorengan,High Demand,SARIMA,,11.68,0.85,22.51,12,12
+2026-09-30,Goreng Panjang,Gorengan,High Demand,SARIMA,,12.26,1.4,23.12,12,13
+2026-10-01,Goreng Panjang,Gorengan,High Demand,SARIMA,,11.94,1.04,22.84,12,12
+2026-09-25,Kemasan,Tambahan,High Demand,SARIMA,,5.56,0.0,20.08,6,6
+2026-09-26,Kemasan,Tambahan,High Demand,SARIMA,,4.32,0.0,18.89,4,5
+2026-09-27,Kemasan,Tambahan,High Demand,SARIMA,,9.22,0.0,23.83,9,10
+2026-09-28,Kemasan,Tambahan,High Demand,SARIMA,,3.82,0.0,18.48,4,4
+2026-09-29,Kemasan,Tambahan,High Demand,SARIMA,,5.08,0.0,19.79,5,6
+2026-09-30,Kemasan,Tambahan,High Demand,SARIMA,,5.8,0.0,20.54,6,6
+2026-10-01,Kemasan,Tambahan,High Demand,SARIMA,,2.4,0.0,17.19,2,3
+2026-09-25,Bakso Goreng,Gorengan,High Demand,SARIMA,,10.52,1.53,19.5,11,11
+2026-09-26,Bakso Goreng,Gorengan,High Demand,SARIMA,,10.84,1.42,20.25,11,11
+2026-09-27,Bakso Goreng,Gorengan,High Demand,SARIMA,,12.62,2.8,22.45,13,13
+2026-09-28,Bakso Goreng,Gorengan,High Demand,SARIMA,,8.52,0.0,18.74,9,9
+2026-09-29,Bakso Goreng,Gorengan,High Demand,SARIMA,,8.77,0.0,19.36,9,9
+2026-09-30,Bakso Goreng,Gorengan,High Demand,SARIMA,,9.6,0.0,20.56,10,10
+2026-10-01,Bakso Goreng,Gorengan,High Demand,SARIMA,,9.77,0.0,21.09,10,10
+2026-09-25,Bakso Jamur,Bakso,High Demand,SARIMA,,10.07,0.0,20.46,10,11
+2026-09-26,Bakso Jamur,Bakso,High Demand,SARIMA,,10.34,0.0,20.77,10,11
+2026-09-27,Bakso Jamur,Bakso,High Demand,SARIMA,,13.08,2.63,23.54,13,14
+2026-09-28,Bakso Jamur,Bakso,High Demand,SARIMA,,9.01,0.0,19.5,9,10
+2026-09-29,Bakso Jamur,Bakso,High Demand,SARIMA,,10.83,0.31,21.35,11,11
+2026-09-30,Bakso Jamur,Bakso,High Demand,SARIMA,,10.65,0.11,21.2,11,11
+2026-10-01,Bakso Jamur,Bakso,High Demand,SARIMA,,10.04,0.0,20.62,10,11
+2026-09-25,Goreng Kembang,Gorengan,High Demand,SARIMA,,9.0,0.0,18.54,9,10
+2026-09-26,Goreng Kembang,Gorengan,High Demand,SARIMA,,9.99,0.44,19.53,10,10
+2026-09-27,Goreng Kembang,Gorengan,High Demand,SARIMA,,12.74,3.1,22.39,13,13
+2026-09-28,Goreng Kembang,Gorengan,High Demand,SARIMA,,7.66,0.0,17.37,8,8
+2026-09-29,Goreng Kembang,Gorengan,High Demand,SARIMA,,11.03,1.25,20.81,11,12
+2026-09-30,Goreng Kembang,Gorengan,High Demand,SARIMA,,10.02,0.17,19.86,10,11
+2026-10-01,Goreng Kembang,Gorengan,High Demand,SARIMA,,9.21,0.0,19.13,9,10
+2026-09-25,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,8.29,0.0,17.89,8,9
+2026-09-26,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,9.84,0.22,19.47,10,10
+2026-09-27,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,12.32,2.67,21.97,12,13
+2026-09-28,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,7.9,0.0,17.57,8,8
+2026-09-29,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,9.16,0.0,18.86,9,10
+2026-09-30,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,8.0,0.0,17.73,8,9
+2026-10-01,Isi Telor Puyuh,Bakso,High Demand,SARIMA,,8.16,0.0,17.91,8,9
+2026-09-25,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,11.85,2.83,20.87,12,12
+2026-09-26,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,12.98,3.91,22.06,13,13
+2026-09-27,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,13.77,4.64,22.9,14,14
+2026-09-28,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,11.06,1.88,20.24,11,12
+2026-09-29,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,12.43,3.2,21.66,12,13
+2026-09-30,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,11.19,1.91,20.48,11,12
+2026-10-01,Bakso Urat Jumbo,Bakso,Medium Demand,SARIMA,,10.72,1.38,20.05,11,11
+2026-09-25,Tahu Putih,Bakso,Medium Demand,SARIMA,,6.66,0.0,15.91,7,7
+2026-09-26,Tahu Putih,Bakso,Medium Demand,SARIMA,,7.84,0.0,17.22,8,8
+2026-09-27,Tahu Putih,Bakso,Medium Demand,SARIMA,,9.51,0.0,19.03,10,10
+2026-09-28,Tahu Putih,Bakso,Medium Demand,SARIMA,,7.19,0.0,16.84,7,8
+2026-09-29,Tahu Putih,Bakso,Medium Demand,SARIMA,,7.27,0.0,17.05,7,8
+2026-09-30,Tahu Putih,Bakso,Medium Demand,SARIMA,,7.57,0.0,17.47,8,8
+2026-10-01,Tahu Putih,Bakso,Medium Demand,SARIMA,,7.76,0.0,17.79,8,8
+2026-09-25,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,2.07,0.0,12.51,2,3
+2026-09-26,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,1.18,0.0,12.79,1,2
+2026-09-27,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,2.92,0.0,14.98,3,3
+2026-09-28,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,1.94,0.0,14.29,2,2
+2026-09-29,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,1.9,0.0,14.49,2,2
+2026-09-30,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,1.35,0.0,14.17,1,2
+2026-10-01,Bakso Jumbo Merekah,Bakso,Medium Demand,SARIMA,,1.68,0.0,14.71,2,2
+2026-09-25,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,5.71,0.0,13.42,6,6
+2026-09-26,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,5.67,0.0,13.59,6,6
+2026-09-27,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,6.81,0.0,14.76,7,7
+2026-09-28,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,3.85,0.0,11.84,4,4
+2026-09-29,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,5.53,0.0,13.54,6,6
+2026-09-30,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,5.74,0.0,13.77,6,6
+2026-10-01,Goreng Isi Ayam,Gorengan,Medium Demand,SARIMA,,4.89,0.0,12.95,5,5
+2026-09-25,Air Mineral,Minuman,Medium Demand,SARIMA,,6.7,0.0,14.22,7,7
+2026-09-26,Air Mineral,Minuman,Medium Demand,SARIMA,,5.94,0.0,13.49,6,6
+2026-09-27,Air Mineral,Minuman,Medium Demand,SARIMA,,7.23,0.0,14.82,7,8
+2026-09-28,Air Mineral,Minuman,Medium Demand,SARIMA,,5.78,0.0,13.41,6,6
+2026-09-29,Air Mineral,Minuman,Medium Demand,SARIMA,,6.62,0.0,14.28,7,7
+2026-09-30,Air Mineral,Minuman,Medium Demand,SARIMA,,7.33,0.0,15.03,7,8
+2026-10-01,Air Mineral,Minuman,Medium Demand,SARIMA,,6.75,0.0,14.49,7,7
+2026-09-25,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,8.65,0,0
+2026-09-26,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,8.7,0,0
+2026-09-27,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,9.03,0,0
+2026-09-28,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,9.1,0,0
+2026-09-29,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,9.84,0,0
+2026-09-30,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,10.02,0,0
+2026-10-01,Bakso Pedas,Bakso,Medium Demand,SARIMA,,0.0,0.0,10.44,0,0
+2026-09-25,Lontong,Tambahan,Medium Demand,SARIMA,,4.5,0.0,10.59,4,5
+2026-09-26,Lontong,Tambahan,Medium Demand,SARIMA,,4.55,0.0,10.65,5,5
+2026-09-27,Lontong,Tambahan,Medium Demand,SARIMA,,5.44,0.0,11.55,5,6
+2026-09-28,Lontong,Tambahan,Medium Demand,SARIMA,,4.77,0.0,10.89,5,5
+2026-09-29,Lontong,Tambahan,Medium Demand,SARIMA,,5.07,0.0,11.2,5,6
+2026-09-30,Lontong,Tambahan,Medium Demand,SARIMA,,5.26,0.0,11.4,5,6
+2026-10-01,Lontong,Tambahan,Medium Demand,SARIMA,,4.38,0.0,10.52,4,5
+2026-09-25,Pangsit Mie,Mie,Medium Demand,SARIMA,,4.15,0.0,11.15,4,5
+2026-09-26,Pangsit Mie,Mie,Medium Demand,SARIMA,,4.28,0.0,11.37,4,5
+2026-09-27,Pangsit Mie,Mie,Medium Demand,SARIMA,,5.46,0.0,12.63,5,6
+2026-09-28,Pangsit Mie,Mie,Medium Demand,SARIMA,,3.09,0.0,10.34,3,4
+2026-09-29,Pangsit Mie,Mie,Medium Demand,SARIMA,,3.65,0.0,10.97,4,4
+2026-09-30,Pangsit Mie,Mie,Medium Demand,SARIMA,,3.28,0.0,10.68,3,4
+2026-10-01,Pangsit Mie,Mie,Medium Demand,SARIMA,,4.09,0.0,11.58,4,5
+2026-09-25,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,4.99,0.0,10.41,5,5
+2026-09-26,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,5.23,0.0,10.74,5,6
+2026-09-27,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,6.36,0.74,11.97,6,7
+2026-09-28,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,4.75,0.0,10.46,5,5
+2026-09-29,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,5.44,0.0,11.24,5,6
+2026-09-30,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,5.23,0.0,11.12,5,6
+2026-10-01,Bakso Mercon Besar,Bakso,Medium Demand,SARIMA,,5.41,0.0,11.4,5,6
+2026-09-25,Es Teler Regular,Minuman,Medium Demand,SARIMA,,17.34,10.46,24.23,17,18
+2026-09-26,Es Teler Regular,Minuman,Medium Demand,SARIMA,,16.82,9.79,23.84,17,17
+2026-09-27,Es Teler Regular,Minuman,Medium Demand,SARIMA,,16.77,9.61,23.93,17,17
+2026-09-28,Es Teler Regular,Minuman,Medium Demand,SARIMA,,16.11,8.82,23.4,16,17
+2026-09-29,Es Teler Regular,Minuman,Medium Demand,SARIMA,,15.14,7.71,22.56,15,16
+2026-09-30,Es Teler Regular,Minuman,Medium Demand,SARIMA,,16.97,9.42,24.53,17,17
+2026-10-01,Es Teler Regular,Minuman,Medium Demand,SARIMA,,16.57,8.89,24.25,17,17
+2026-09-25,Halus Special,Bakso,Medium Demand,SARIMA,,0.5,0.0,7.45,0,1
+2026-09-26,Halus Special,Bakso,Medium Demand,SARIMA,,1.18,0.0,8.23,1,2
+2026-09-27,Halus Special,Bakso,Medium Demand,SARIMA,,0.23,0.0,7.38,0,1
+2026-09-28,Halus Special,Bakso,Medium Demand,SARIMA,,0.0,0.0,7.02,0,0
+2026-09-29,Halus Special,Bakso,Medium Demand,SARIMA,,0.0,0.0,7.3,0,0
+2026-09-30,Halus Special,Bakso,Medium Demand,SARIMA,,0.0,0.0,7.23,0,0
+2026-10-01,Halus Special,Bakso,Medium Demand,SARIMA,,0.0,0.0,7.14,0,0
+2026-09-25,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,2.34,0.0,5.87,2,3
+2026-09-26,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,1.89,0.0,5.43,2,2
+2026-09-27,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,1.89,0.0,5.43,2,2
+2026-09-28,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,2.0,0.0,5.55,2,3
+2026-09-29,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,2.11,0.0,5.66,2,3
+2026-09-30,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,2.22,0.0,5.78,2,3
+2026-10-01,Bakso Telur Asin,Bakso,Medium Demand,SARIMA,,2.11,0.0,5.67,2,3
+2026-09-25,Es Jeruk,Minuman,Medium Demand,SARIMA,,2.03,0.0,5.85,2,3
+2026-09-26,Es Jeruk,Minuman,Medium Demand,SARIMA,,2.95,0.0,6.78,3,3
+2026-09-27,Es Jeruk,Minuman,Medium Demand,SARIMA,,3.04,0.0,6.88,3,4
+2026-09-28,Es Jeruk,Minuman,Medium Demand,SARIMA,,1.68,0.0,5.52,2,2
+2026-09-29,Es Jeruk,Minuman,Medium Demand,SARIMA,,1.96,0.0,5.8,2,2
+2026-09-30,Es Jeruk,Minuman,Medium Demand,SARIMA,,2.12,0.0,5.97,2,3
+2026-10-01,Es Jeruk,Minuman,Medium Demand,SARIMA,,2.0,0.0,5.85,2,2
+2026-09-25,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.78,0.0,5.12,2,2
+2026-09-26,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.61,0.0,4.95,2,2
+2026-09-27,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.48,0.0,4.83,1,2
+2026-09-28,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.49,0.0,4.86,1,2
+2026-09-29,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.75,0.0,5.12,2,2
+2026-09-30,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.61,0.0,4.99,2,2
+2026-10-01,Isi Telor Ayam,Bakso,Medium Demand,SARIMA,,1.6,0.0,4.99,2,2
+2026-09-25,Mie Gebres,Mie,Medium Demand,SARIMA,,2.52,0.0,6.43,3,3
+2026-09-26,Mie Gebres,Mie,Medium Demand,SARIMA,,1.87,0.0,5.78,2,2
+2026-09-27,Mie Gebres,Mie,Medium Demand,SARIMA,,2.53,0.0,6.46,3,3
+2026-09-28,Mie Gebres,Mie,Medium Demand,SARIMA,,2.2,0.0,6.13,2,3
+2026-09-29,Mie Gebres,Mie,Medium Demand,SARIMA,,3.12,0.0,7.06,3,4
+2026-09-30,Mie Gebres,Mie,Medium Demand,SARIMA,,2.37,0.0,6.32,2,3
+2026-10-01,Mie Gebres,Mie,Medium Demand,SARIMA,,2.6,0.0,6.56,3,3
+2026-09-25,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,1.92,0.0,7.6,2,2
+2026-09-26,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,2.1,0.0,7.9,2,3
+2026-09-27,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,1.64,0.0,7.45,2,2
+2026-09-28,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,1.57,0.0,7.38,2,2
+2026-09-29,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,1.49,0.0,7.3,1,2
+2026-09-30,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,2.31,0.0,8.12,2,3
+2026-10-01,Miki Miki Stik,Ice Cream Aice,Medium Demand,SARIMA,,1.59,0.0,7.41,2,2
+2026-09-25,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.49,0.0,4.49,1,2
+2026-09-26,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.38,0.0,4.37,1,2
+2026-09-27,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.58,0.0,4.58,2,2
+2026-09-28,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.41,0.0,4.42,1,2
+2026-09-29,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.7,0.0,4.71,2,2
+2026-09-30,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.62,0.0,4.63,2,2
+2026-10-01,Teh Hangat,Minuman,Medium Demand,SARIMA,,1.1,0.0,4.11,1,2
+2026-09-25,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,2.44,0.0,6.84,2,3
+2026-09-26,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,3.31,0.0,7.73,3,4
+2026-09-27,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,3.07,0.0,7.51,3,4
+2026-09-28,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,2.78,0.0,7.24,3,3
+2026-09-29,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,2.55,0.0,7.03,3,3
+2026-09-30,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,2.36,0.0,6.86,2,3
+2026-10-01,Sweet Corn,Ice Cream Aice,Medium Demand,SARIMA,,2.89,0.0,7.41,3,3
+2026-09-25,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.23,0.0,3.68,1,2
+2026-09-26,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.15,0.0,3.62,1,2
+2026-09-27,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.24,0.0,3.71,1,2
+2026-09-28,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.08,0.0,3.54,1,2
+2026-09-29,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.07,0.0,3.53,1,2
+2026-09-30,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.19,0.0,3.65,1,2
+2026-10-01,Jeruk Hangat,Minuman,Medium Demand,SARIMA,,1.04,0.0,3.51,1,2
+2026-09-25,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.0,0.0,3.63,0,0
+2026-09-26,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.0,0.0,3.62,0,0
+2026-09-27,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.0,0.0,3.59,0,0
+2026-09-28,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.19,0.0,4.05,0,1
+2026-09-29,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.0,0.0,3.77,0,0
+2026-09-30,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.0,0.0,3.76,0,0
+2026-10-01,Choco Malt,Ice Cream Aice,Medium Demand,SARIMA,,0.27,0.0,4.32,0,1
+2026-09-25,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.61,0.0,4.83,2,2
+2026-09-26,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.52,0.0,4.82,2,2
+2026-09-27,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.36,0.0,4.71,1,2
+2026-09-28,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.11,0.0,4.5,1,2
+2026-09-29,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.49,0.0,4.91,1,2
+2026-09-30,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,1.24,0.0,4.7,1,2
+2026-10-01,Miki Double Choco,Ice Cream Aice,Low Demand,SARIMA,,0.98,0.0,4.47,1,1
+2026-09-25,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.25,0,1
+2026-09-26,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.26,0,1
+2026-09-27,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.28,0,1
+2026-09-28,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.3,0,1
+2026-09-29,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.31,0,1
+2026-09-30,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.33,0,1
+2026-10-01,Kuah Pedas,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.35,0,1
+2026-09-25,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.78,0.0,4.4,1,1
+2026-09-26,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.16,0.0,4.94,1,2
+2026-09-27,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.38,0.0,4.18,0,1
+2026-09-28,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.5,0.0,4.3,1,1
+2026-09-29,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.65,0.0,4.45,1,1
+2026-09-30,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.49,0.0,4.29,0,1
+2026-10-01,Coffee Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.49,0.0,4.29,0,1
+2026-09-25,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.3,0.0,9.36,0,1
+2026-09-26,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.47,0.0,10.71,0,1
+2026-09-27,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.0,0.0,9.3,0,0
+2026-09-28,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.0,0.0,9.49,0,0
+2026-09-29,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.0,0.0,9.38,0,0
+2026-09-30,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.04,0.0,10.72,0,1
+2026-10-01,Urat Merekah,Bakso,Sparse Demand,SARIMA,,0.0,0.0,10.22,0,0
+2026-09-25,Tetelan,Tambahan,Low Demand,SARIMA,,0.95,0.0,3.29,1,1
+2026-09-26,Tetelan,Tambahan,Low Demand,SARIMA,,1.38,0.0,3.75,1,2
+2026-09-27,Tetelan,Tambahan,Low Demand,SARIMA,,1.65,0.0,4.1,2,2
+2026-09-28,Tetelan,Tambahan,Low Demand,SARIMA,,0.46,0.0,2.96,0,1
+2026-09-29,Tetelan,Tambahan,Low Demand,SARIMA,,0.4,0.0,2.97,0,1
+2026-09-30,Tetelan,Tambahan,Low Demand,SARIMA,,0.0,0.0,2.16,0,0
+2026-10-01,Tetelan,Tambahan,Low Demand,SARIMA,,0.25,0.0,2.94,0,1
+2026-09-25,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.72,0.0,4.64,1,1
+2026-09-26,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.08,0.0,5.1,1,2
+2026-09-27,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.17,0.0,5.21,1,2
+2026-09-28,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.86,0.0,4.9,1,1
+2026-09-29,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.11,0.0,5.16,1,2
+2026-09-30,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.2,0.0,5.25,1,2
+2026-10-01,Strawbery Crispy,Ice Cream Aice,Low Demand,SARIMA,,1.21,0.0,5.27,1,2
+2026-09-25,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.79,0,1
+2026-09-26,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.82,0,1
+2026-09-27,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.85,0,1
+2026-09-28,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.87,0,1
+2026-09-29,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.9,0,1
+2026-09-30,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.93,0,1
+2026-10-01,Bakso Jagung,Bakso,Low Demand,SARIMA,,0.0,0.0,1.95,0,1
+2026-09-25,Bakso Kotak,Bakso,Low Demand,SARIMA,,2.09,0.03,4.15,2,3
+2026-09-26,Bakso Kotak,Bakso,Low Demand,SARIMA,,1.69,0.0,3.91,2,2
+2026-09-27,Bakso Kotak,Bakso,Low Demand,SARIMA,,2.21,0.0,4.52,2,3
+2026-09-28,Bakso Kotak,Bakso,Low Demand,SARIMA,,2.23,0.0,4.63,2,3
+2026-09-29,Bakso Kotak,Bakso,Low Demand,SARIMA,,2.33,0.0,4.82,2,3
+2026-09-30,Bakso Kotak,Bakso,Low Demand,SARIMA,,1.49,0.0,4.05,1,2
+2026-10-01,Bakso Kotak,Bakso,Low Demand,SARIMA,,1.75,0.0,4.39,2,2
+2026-09-25,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.31,0.0,2.47,0,1
+2026-09-26,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.61,0.0,2.84,1,1
+2026-09-27,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.58,0.0,2.9,1,1
+2026-09-28,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.4,0.0,2.72,0,1
+2026-09-29,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.61,0.0,2.94,1,1
+2026-09-30,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.7,0.0,3.03,1,1
+2026-10-01,Sundae Coklat,Ice Cream Aice,Low Demand,SARIMAX,,0.43,0.0,2.76,0,1
+2026-09-25,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.57,0,0
+2026-09-26,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.63,0,0
+2026-09-27,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.3,0.0,2.93,0,1
+2026-09-28,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.63,0,0
+2026-09-29,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.63,0,0
+2026-09-30,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.63,0,0
+2026-10-01,Nanas Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.63,0,0
+2026-09-25,Es Teler Large,Minuman,Low Demand,SARIMA,,3.79,1.95,5.63,4,4
+2026-09-26,Es Teler Large,Minuman,Low Demand,SARIMA,,2.75,0.88,4.62,3,3
+2026-09-27,Es Teler Large,Minuman,Low Demand,SARIMA,,3.23,1.33,5.12,3,4
+2026-09-28,Es Teler Large,Minuman,Low Demand,SARIMA,,3.6,1.71,5.5,4,4
+2026-09-29,Es Teler Large,Minuman,Low Demand,SARIMA,,4.88,2.98,6.78,5,5
+2026-09-30,Es Teler Large,Minuman,Low Demand,SARIMA,,2.56,0.65,4.47,3,3
+2026-10-01,Es Teler Large,Minuman,Low Demand,SARIMA,,3.32,1.4,5.23,3,4
+2026-09-25,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,5.08,0,0
+2026-09-26,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.19,0,0
+2026-09-27,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.29,0,0
+2026-09-28,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.29,0,0
+2026-09-29,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.29,0,0
+2026-09-30,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.29,0,0
+2026-10-01,Bakso Bulan Gemoy,Bakso,Sparse Demand,SARIMA,,0.0,0.0,7.29,0,0
+2026-09-25,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-26,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-27,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-28,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-29,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-30,Teh Botol,Minuman,Low Demand,SARIMA,,0.24,0.0,1.88,0,1
+2026-10-01,Teh Botol,Minuman,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-25,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-26,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-27,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-28,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-29,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-30,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.82,0,1
+2026-10-01,Teh Hangat Tawar,Minuman,Low Demand,SARIMA,,0.32,0.0,1.83,0,1
+2026-09-25,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.94,0,0
+2026-09-26,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.08,0,0
+2026-09-27,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.11,0,1
+2026-09-28,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.11,0,0
+2026-09-29,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.11,0,0
+2026-09-30,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.11,0,0
+2026-10-01,Semangka Stik,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,2.11,0,0
+2026-09-25,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.18,0.0,1.36,0,1
+2026-09-26,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.25,0.0,1.43,0,1
+2026-09-27,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.94,0.0,2.12,1,1
+2026-09-28,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.29,0.0,1.47,0,1
+2026-09-29,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.1,0.0,1.29,0,1
+2026-09-30,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.44,0.0,1.62,0,1
+2026-10-01,Es Teh Tawar,Minuman,Low Demand,SARIMA,,0.3,0.0,1.49,0,1
+2026-09-25,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.0,0.0,1.38,0,0
+2026-09-26,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.19,0.0,1.57,0,1
+2026-09-27,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.0,0.0,1.38,0,0
+2026-09-28,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.0,0.0,1.38,0,0
+2026-09-29,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.19,0.0,1.57,0,1
+2026-09-30,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.0,0.0,1.38,0,0
+2026-10-01,Mie Spicy Barbeque,Mie,Low Demand,SARIMA,,0.0,0.0,1.38,0,0
+2026-09-25,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.1,0.0,1.58,0,1
+2026-09-26,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.07,0.0,1.61,0,1
+2026-09-27,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.64,0,0
+2026-09-28,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.04,0.0,1.74,0,1
+2026-09-29,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.72,0,0
+2026-09-30,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.02,0.0,1.77,0,1
+2026-10-01,Chocolate Crispy,Ice Cream Aice,Low Demand,SARIMA,,0.02,0.0,1.79,0,1
+2026-09-25,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.24,0,1
+2026-09-26,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.24,0,1
+2026-09-27,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.24,0,1
+2026-09-28,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.24,0,1
+2026-09-29,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.24,0,1
+2026-09-30,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.23,0,1
+2026-10-01,Mie Barbeque,Mie,Low Demand,SARIMA,,0.08,0.0,1.23,0,1
+2026-09-25,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.22,0.0,1.32,0,1
+2026-09-26,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.26,0.0,1.37,0,1
+2026-09-27,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.22,0.0,1.33,0,1
+2026-09-28,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.21,0.0,1.32,0,1
+2026-09-29,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.14,0.0,1.26,0,1
+2026-09-30,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.15,0.0,1.27,0,1
+2026-10-01,Mie Blackpepper,Mie,Low Demand,SARIMA,,0.13,0.0,1.25,0,1
+2026-09-25,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.2,0,1
+2026-09-26,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.22,0,1
+2026-09-27,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.25,0,1
+2026-09-28,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.27,0,1
+2026-09-29,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.29,0,1
+2026-09-30,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.3,0,1
+2026-10-01,Fruizzy Grape,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.32,0,1
+2026-09-25,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.13,0.0,1.19,0,1
+2026-09-26,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-09-27,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-09-28,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-09-29,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-09-30,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-10-01,Mochi Coklat,Ice Cream Aice,Low Demand,SARIMA,,0.12,0.0,1.19,0,1
+2026-09-25,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,0.99,0,1
+2026-09-26,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.0,0,1
+2026-09-27,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.01,0,1
+2026-09-28,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.03,0,1
+2026-09-29,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.03,0,1
+2026-09-30,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.04,0,1
+2026-10-01,Sundae Strawberry,Ice Cream Aice,Low Demand,SARIMA,,0.0,0.0,1.05,0,1
+2026-09-25,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.83,0,0
+2026-09-26,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.03,0.0,0.87,0,1
+2026-09-27,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.82,0,0
+2026-09-28,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.84,0,0
+2026-09-29,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.03,0.0,0.89,0,1
+2026-09-30,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.82,0,0
+2026-10-01,Jeruk Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.86,0,0
+2026-09-25,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.04,0.0,0.9,0,1
+2026-09-26,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.09,0.0,0.97,0,1
+2026-09-27,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.12,0.0,1.07,0,1
+2026-09-28,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.2,0.0,1.19,0,1
+2026-09-29,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.26,0.0,1.3,0,1
+2026-09-30,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.0,0.0,1.01,0,0
+2026-10-01,Taro Crispy,Ice Cream Aice,Sparse Demand,SARIMAX,,0.43,0.0,1.53,0,1
+2026-09-25,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.03,0.0,0.46,0,1
+2026-09-26,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.03,0.0,0.47,0,1
+2026-09-27,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.02,0.0,0.45,0,1
+2026-09-28,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.0,0.0,0.43,0,0
+2026-09-29,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.45,0,1
+2026-09-30,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.04,0.0,0.48,0,1
+2026-10-01,Merapi Beranak,Bakso,Sparse Demand,SARIMA,,0.0,0.0,0.41,0,0
+2026-09-25,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.16,0.0,0.84,0,1
+2026-09-26,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.11,0.0,0.79,0,1
+2026-09-27,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.14,0.0,0.82,0,1
+2026-09-28,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.03,0.0,0.72,0,1
+2026-09-29,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.0,0.0,0.69,0,1
+2026-09-30,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.19,0.0,0.87,0,1
+2026-10-01,Air Putih,Minuman,Sparse Demand,SARIMAX,,0.03,0.0,0.71,0,1
+2026-09-25,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.11,0.0,0.82,0,1
+2026-09-26,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.1,0.0,0.82,0,1
+2026-09-27,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.1,0.0,0.82,0,1
+2026-09-28,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.1,0.0,0.82,0,1
+2026-09-29,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.22,0.0,0.94,0,1
+2026-09-30,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.09,0.0,0.82,0,1
+2026-10-01,Mochi Vanila,Ice Cream Aice,Sparse Demand,SARIMA,,0.09,0.0,0.82,0,1
+2026-09-25,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.06,0,0
+2026-09-26,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.2,0,0
+2026-09-27,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.24,0,0
+2026-09-28,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.25,0,0
+2026-09-29,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.25,0,0
+2026-09-30,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.25,0,0
+2026-10-01,Bingo Cone,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.25,0,0
+2026-09-25,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.51,0,1
+2026-09-26,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.55,0,1
+2026-09-27,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.57,0,1
+2026-09-28,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.59,0,1
+2026-09-29,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.6,0,1
+2026-09-30,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.6,0,1
+2026-10-01,Choco Melt,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,1.6,0,1
+2026-09-25,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.86,0,0
+2026-09-26,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.9,0,0
+2026-09-27,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.92,0,0
+2026-09-28,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.92,0,1
+2026-09-29,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.93,0,0
+2026-09-30,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.93,0,1
+2026-10-01,Crispy Balls,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.93,0,0
+2026-09-25,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-26,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-27,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-28,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-29,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-30,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-10-01,Bakso Beranak,Bakso,Sparse Demand,SARIMA,,0.01,0.0,0.41,0,1
+2026-09-25,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,0
+2026-09-26,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-27,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,0
+2026-09-28,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-29,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,0
+2026-09-30,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-10-01,Markisa Stik,Ice Cream Aice,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,0
+2026-09-25,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.12,0,1
+2026-09-26,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-27,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-28,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-29,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-30,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-10-01,Ceker,Tambahan,Sparse Demand,SARIMA,,0.0,0.0,0.17,0,1
+2026-09-25,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,0
+2026-09-26,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,0
+2026-09-27,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.05,0,0
+2026-09-28,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,0
+2026-09-29,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,0
+2026-09-30,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,0
+2026-10-01,Mie Teriyaki,Mie,Sparse Demand,SARIMA,,0.0,0.0,0.06,0,1
