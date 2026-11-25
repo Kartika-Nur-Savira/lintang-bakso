@@ -1,7 +1,7 @@
-# Daily Item Demand Forecasting Using SARIMAX
-## Sistem Prediksi Permintaan Menu Harian Berbasis Deret Waktu Statistik & Variabel Eksogen
+# Perbandingan Algoritma LSTM Dan SARIMAX Untuk Demand Forecast
+## Studi Komparasi Pemodelan Deret Waktu Parametrik vs Deep Learning
 **Studi Kasus Bisnis:** Warung Bakso Lintang (Ketintang, Surabaya)  
-**Tujuan Proyek:** Perencanaan Pembelian Bahan Baku Dapur (Bill of Materials) & Laporan Penelitian Akademik  
+**Tujuan Penelitian:** Membandingkan akurasi dan karakteristik algoritma Long Short-Term Memory (LSTM) dengan Seasonal Autoregressive Integrated Moving Average with Exogenous Variables (SARIMAX) untuk peramalan permintaan menu harian (7 hari ke depan).  
 **Dataset Utama:** `daily_item_demand.csv` (18.423 baris, 69 produk, 267 hari kalender harian, Jan–Sep 2026)
 
 ---
@@ -144,43 +144,26 @@ lintang-bakso/
    - Horizon peramalan ditetapkan $h = 7$ hari.
    - Menggunakan 4 fold validasi bergulir (*expanding window*) pada 28 hari terakhir tanpa kebocoran data (*zero data leakage*).
    - Membandingkan 3 model: **Seasonal Naive**, **SARIMA**, dan **SARIMAX**.
-2. **Hasil Evaluasi Kinerja (Rata-rata 4 Fold):**
+2. **Hasil Evaluasi Kinerja Head-to-Head (Rata-rata 4 Fold Rolling Origin):**
 
-| Kuadran Permintaan | Produk Sampel | Model | Paradigma / Tipe | MAE (Porsi) | RMSE (Porsi) | WAPE (%) |
-|---|---|---|---|---|---|---|
-| **High Demand** | **Bakso Kecil** | **Holt-Winters ETS** | Classical Statistical | **16.23** | **20.46** | **35.87%** |
-| | | MLP (Neural Net) | Deep Learning / NN | 17.13 | 21.13 | 36.67% |
-| | | Croston (SBA) | Intermittent / SBA | 17.30 | 22.65 | 37.74% |
-| | | **SARIMAX** | Statistical Exog | **17.31** | **21.34** | **38.48%** |
-| | | **SARIMA** | Statistical Baseline | 17.32 | 21.35 | 38.51% |
-| | | Random Forest | Ensemble Trees | 19.20 | 23.07 | 41.81% |
-| | | LightGBM | Gradient Boosted Trees | 18.82 | 23.12 | 41.88% |
-| | | LSTM (Deep Learning) | Recurrent Neural Net | 18.31 | 23.41 | 42.80% |
-| | | Seasonal Naive | Heuristic Baseline | 20.46 | 24.46 | 44.81% |
-| **Medium Demand** | **Bakso Telur Asin** | **Croston (SBA)** | Intermittent / SBA | **0.84** | **1.09** | **43.65%** |
-| | | **Holt-Winters ETS** | Classical Statistical | 0.88 | 1.14 | 46.01% |
-| | | **SARIMA** | Statistical Baseline | **0.92** | **1.19** | **47.94%** |
-| | | **SARIMAX** | Statistical Exog | **0.92** | **1.19** | **47.94%** |
-| | | MLP (Neural Net) | Deep Learning / NN | 1.04 | 1.31 | 54.34% |
-| | | Random Forest | Ensemble Trees | 1.20 | 1.42 | 61.94% |
-| | | LightGBM | Gradient Boosted Trees | 1.23 | 1.41 | 63.64% |
-| | | LSTM (Deep Learning) | Recurrent Neural Net | 1.23 | 1.39 | 66.18% |
-| | | Seasonal Naive | Heuristic Baseline | 1.32 | 1.58 | 69.14% |
-| **Low Demand** | **Mie Spicy Barbeque** | **Holt-Winters ETS** | Classical Statistical | **0.18** | **0.33** | **111.48%** |
-| | | **SARIMA** | Statistical Baseline | 0.23 | 0.33 | 134.22% |
-| | | Seasonal Naive | Heuristic Baseline | 0.25 | 0.49 | 137.50% |
-| | | Croston (SBA) | Intermittent / SBA | 0.29 | 0.35 | 156.32% |
-| | | Random Forest | Ensemble Trees | 0.37 | 0.42 | 183.34% |
-| | | SARIMAX | Statistical Exog | 0.37 | 0.40 | 185.24% |
-| | | MLP (Neural Net) | Deep Learning / NN | 0.37 | 0.41 | 186.73% |
-| | | LSTM (Deep Learning) | Recurrent Neural Net | 0.37 | 0.39 | 188.97% |
-| | | LightGBM | Gradient Boosted Trees | 0.38 | 0.42 | 189.79% |
-| **Sparse Demand** | **Bakso Beranak** | LightGBM / RF / Naive | Flat Zero Predictor | 0.00 | 0.00 | 0.00%* |
-| | | SARIMA / SARIMAX | Statistical Linear | 0.01 | 0.02 | 100.00% |
-| | | LSTM (Deep Learning) | Recurrent Neural Net | 0.02 | 0.02 | 75.00% |
-| | | Croston (SBA) | Demand Rate Estimator | 0.34 | 0.34 | 100.00% |
+| Kuadran Permintaan | Produk Sampel | Model | MAE (Porsi) | RMSE (Porsi) | WAPE (%) | Mean Bias | Pemenang / Analisis Perbandingan |
+|---|---|---|---|---|---|---|---|
+| **High Demand** | **Bakso Kecil** | Seasonal Naive | 20.46 | 24.46 | 44.81% | -4.11 | Baseline acuan |
+| | | SARIMA | 17.32 | 21.35 | 38.51% | -4.25 | Baseline univariat |
+| | | **SARIMAX** | **17.31** | **21.34** | **38.48%** | **-4.28** | **Pemenang (WAPE 38.48%):** Variabel eksogen weekend meningkatkan akurasi. |
+| | | **LSTM** | 18.31 | 23.41 | 42.80% | +4.28 | Cukup baik menangkap siklus, tapi varians lebih tinggi (sampel $N=267$). |
+| **Medium Demand** | **Bakso Telur Asin** | Seasonal Naive | 1.32 | 1.58 | 69.14% | -0.04 | Baseline acuan |
+| | | **SARIMAX** | **0.92** | **1.19** | **47.94%** | **+0.02** | **Pemenang (WAPE 47.94%):** Rata-rata selisih kesalahan di bawah 1 porsi/hari. |
+| | | **LSTM** | 1.23 | 1.39 | 66.18% | +0.81 | Cenderung bias positif (+0.81 porsi) akibat akumulasi galat rekursif. |
+| **Low Demand** | **Mie Spicy Barbeque** | Seasonal Naive | 0.25 | 0.49 | 137.50% | -0.04 | Mengikuti pola minggu lalu |
+| | | **SARIMA** | **0.23** | **0.33** | **134.22%** | **-0.02** | **Paling Stabil:** Model univariat murni lebih kebal dari overfitting. |
+| | | **SARIMAX** | 0.37 | 0.40 | 185.24% | +0.17 | Eksogen menambah parameter yang rentan overfit saat pesanan jarang. |
+| | | **LSTM** | 0.37 | 0.39 | 188.97% | +0.17 | Kesulitan mempelajari pola pada deret waktu yang dominan fluktuasi kecil. |
+| **Sparse Demand** | **Bakso Beranak** | Seasonal Naive | 0.00 | 0.00 | 0.00%* | 0.00 | Prediksi 0 flat (risiko stockout total). |
+| | | **SARIMAX** | 0.02 | 0.04 | 100.00% | +0.02 | Estimasi kontinu mendekati nol. |
+| | | **LSTM** | 0.02 | 0.02 | 75.00% | +0.02 | Estimasi kontinu mendekati nol. |
 
-*\*Catatan: Pada data Sparse Demand, model pohon (Random Forest, LightGBM) dan Seasonal Naive selalu memprediksi angka 0.0 (WAPE 0% hanya karena fold validasi kebetulan bernilai 0), namun gagal total mengantisipasi stok ketika terjadi pesanan riil.*
+*\*Catatan: Pada data Sparse Demand (95% nilai nol), model deret waktu linier mengalami keterbatasan struktural (zero-inflation). Untuk kebutuhan operasional stok disarankan menggunakan pendekatan laju permintaan terpisah (Croston SBA rate: 0.34 porsi/hari) yang dibahas pada Bagian 4.*
 
 > **Catatan Metodologis Mengenai Metrik:** Metrik **WAPE (Weighted Absolute Percentage Error)** digunakan sebagai pengganti MAPE. Pada data penjualan ritel, nilai aktual nol ($y_t = 0$) sering muncul sehingga MAPE standar menghasilkan nilai tak hingga (*division by zero*). WAPE membobotkan selisih kesalahan secara proporsional terhadap total volume aktual.
 

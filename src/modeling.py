@@ -195,3 +195,103 @@ def predict_7_days_ahead(
     df_forecast['forecast_safe_stock'] = np.ceil(df_forecast['forecast']).astype(int)
     
     return df_forecast
+
+
+# ==============================================================================
+# DEEP LEARNING: LSTM (LONG SHORT-TERM MEMORY) MODELING
+# ==============================================================================
+import torch
+import torch.nn as nn
+from torch.utils.data import TensorDataset, DataLoader
+
+
+class PyTorchLSTM(nn.Module):
+    """
+    Arsitektur Deep Learning Recurrent Neural Network (LSTM)
+    untuk peramalan sekuensial deret waktu harian.
+    """
+    def __init__(self, input_dim: int = 1, hidden_dim: int = 16, num_layers: int = 1):
+        super().__init__()
+        self.lstm = nn.LSTM(input_dim, hidden_dim, num_layers=num_layers, batch_first=True)
+        self.fc = nn.Linear(hidden_dim, 1)
+        
+    def forward(self, x):
+        out, _ = self.lstm(x)
+        return self.fc(out[:, -1, :])
+
+
+def fit_lstm_model(
+    series: pd.Series,
+    window_size: int = 14,
+    hidden_dim: int = 16,
+    epochs: int = 30,
+    lr: float = 0.02
+) -> Tuple[PyTorchLSTM, float]:
+    """
+    Melatih model LSTM pada sliding window historis.
+    Mengembalikan model terlatih dan nilai penskalaan maksimum (max_val) untuk unscaling.
+    """
+    vals = series.values.astype(float)
+    max_val = float(np.max(vals))
+    if max_val == 0.0:
+        return PyTorchLSTM(hidden_dim=hidden_dim), 1.0
+        
+    scaled_vals = vals / max_val
+    X, y = [], []
+    for i in range(len(scaled_vals) - window_size):
+        X.append(scaled_vals[i : i + window_size])
+        y.append(scaled_vals[i + window_size])
+        
+    if len(X) < 10:
+        return PyTorchLSTM(hidden_dim=hidden_dim), max_val
+        
+    X_t = torch.tensor(np.array(X), dtype=torch.float32).unsqueeze(-1)
+    y_t = torch.tensor(np.array(y), dtype=torch.float32).unsqueeze(-1)
+    
+    dataset = TensorDataset(X_t, y_t)
+    loader = DataLoader(dataset, batch_size=32, shuffle=True)
+    
+    torch.manual_seed(42)
+    model = PyTorchLSTM(input_dim=1, hidden_dim=hidden_dim)
+    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+    criterion = nn.MSELoss()
+    
+    model.train()
+    for _ in range(epochs):
+        for bx, by in loader:
+            optimizer.zero_grad()
+            loss = criterion(model(bx), by)
+            loss.backward()
+            optimizer.step()
+            
+    return model, max_val
+
+
+def predict_lstm_7_days_ahead(
+    model: PyTorchLSTM,
+    series: pd.Series,
+    max_val: float,
+    horizon: int = 7,
+    window_size: int = 14
+) -> np.ndarray:
+    """
+    Menghasilkan proyeksi 7 hari ke depan secara autoregresif rekursif menggunakan model LSTM.
+    """
+    vals = series.values.astype(float)
+    if max_val == 0.0 or len(vals) < window_size:
+        return np.zeros(horizon)
+        
+    scaled_vals = list(vals / max_val)
+    curr_window = list(scaled_vals[-window_size:])
+    preds = []
+    
+    model.eval()
+    with torch.no_grad():
+        for _ in range(horizon):
+            inp = torch.tensor(np.array(curr_window[-window_size:]), dtype=torch.float32).view(1, window_size, 1)
+            pred_step = float(model(inp).item())
+            preds.append(pred_step)
+            curr_window.append(pred_step)
+            
+    preds = np.array(preds) * max_val
+    return np.clip(preds, 0.0, None)

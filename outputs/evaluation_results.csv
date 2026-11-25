@@ -1,145 +1,65 @@
 fold,model,val_start,val_end,MAE,RMSE,WAPE,Bias,item_name,tier
 1,Seasonal Naive,2026-08-28,2026-09-03,15.2857,17.6352,49.54,6.7143,Bakso Kecil,High Demand
-1,Holt-Winters ETS,2026-08-28,2026-09-03,14.4265,16.3457,46.75,12.1276,Bakso Kecil,High Demand
 1,SARIMA,2026-08-28,2026-09-03,16.2161,17.8998,52.55,14.535,Bakso Kecil,High Demand
 1,SARIMAX,2026-08-28,2026-09-03,16.1914,17.8779,52.47,14.4904,Bakso Kecil,High Demand
-1,LightGBM,2026-08-28,2026-09-03,18.0485,19.647,58.49,12.6253,Bakso Kecil,High Demand
-1,Random Forest,2026-08-28,2026-09-03,15.983,18.1225,51.8,13.3086,Bakso Kecil,High Demand
-1,LSTM (Deep Learning),2026-08-28,2026-09-03,23.405,26.0286,75.85,23.405,Bakso Kecil,High Demand
-1,MLP (Neural Net),2026-08-28,2026-09-03,11.9069,13.1914,38.59,3.1432,Bakso Kecil,High Demand
-1,Croston (SBA),2026-08-28,2026-09-03,13.3662,14.9408,43.32,9.664,Bakso Kecil,High Demand
+1,LSTM,2026-08-28,2026-09-03,23.405,26.0286,75.85,23.405,Bakso Kecil,High Demand
 2,Seasonal Naive,2026-09-04,2026-09-10,27.0,31.0736,57.8,-15.8571,Bakso Kecil,High Demand
-2,Holt-Winters ETS,2026-09-04,2026-09-10,16.5957,19.6961,35.53,-9.3915,Bakso Kecil,High Demand
 2,SARIMA,2026-09-04,2026-09-10,17.0981,19.9974,36.6,-8.7087,Bakso Kecil,High Demand
 2,SARIMAX,2026-09-04,2026-09-10,17.0915,20.0052,36.59,-8.7561,Bakso Kecil,High Demand
-2,LightGBM,2026-09-04,2026-09-10,17.1471,24.4325,36.71,1.5316,Bakso Kecil,High Demand
-2,Random Forest,2026-09-04,2026-09-10,17.2763,23.4898,36.98,0.9915,Bakso Kecil,High Demand
-2,LSTM (Deep Learning),2026-09-04,2026-09-10,15.7233,22.3138,33.66,3.9154,Bakso Kecil,High Demand
-2,MLP (Neural Net),2026-09-04,2026-09-10,17.6447,22.9069,37.77,-7.7647,Bakso Kecil,High Demand
-2,Croston (SBA),2026-09-04,2026-09-10,20.2382,24.8408,43.32,-12.0478,Bakso Kecil,High Demand
+2,LSTM,2026-09-04,2026-09-10,15.7233,22.3138,33.66,3.9154,Bakso Kecil,High Demand
 3,Seasonal Naive,2026-09-11,2026-09-17,17.1429,23.2133,30.38,-9.7143,Bakso Kecil,High Demand
-3,Holt-Winters ETS,2026-09-11,2026-09-17,19.7551,25.0629,35.01,-13.9175,Bakso Kecil,High Demand
 3,SARIMA,2026-09-11,2026-09-17,21.9518,26.5582,38.9,-15.6403,Bakso Kecil,High Demand
 3,SARIMAX,2026-09-11,2026-09-17,21.9704,26.5727,38.93,-15.6645,Bakso Kecil,High Demand
-3,LightGBM,2026-09-11,2026-09-17,23.5243,27.7295,41.69,-5.2011,Bakso Kecil,High Demand
-3,Random Forest,2026-09-11,2026-09-17,26.8057,30.3711,47.5,-3.4491,Bakso Kecil,High Demand
-3,LSTM (Deep Learning),2026-09-11,2026-09-17,18.725,25.8773,33.18,-9.7309,Bakso Kecil,High Demand
-3,MLP (Neural Net),2026-09-11,2026-09-17,23.0047,28.1469,40.77,-14.4412,Bakso Kecil,High Demand
-3,Croston (SBA),2026-09-11,2026-09-17,19.7875,29.6148,35.07,-18.2661,Bakso Kecil,High Demand
+3,LSTM,2026-09-11,2026-09-17,18.725,25.8773,33.18,-9.7309,Bakso Kecil,High Demand
 4,Seasonal Naive,2026-09-18,2026-09-24,22.4286,25.9312,41.53,2.4286,Bakso Kecil,High Demand
-4,Holt-Winters ETS,2026-09-18,2026-09-24,14.149,20.7451,26.2,-6.1725,Bakso Kecil,High Demand
 4,SARIMA,2026-09-18,2026-09-24,14.0265,20.9509,25.98,-7.1854,Bakso Kecil,High Demand
 4,SARIMAX,2026-09-18,2026-09-24,13.9983,20.9233,25.92,-7.175,Bakso Kecil,High Demand
-4,LightGBM,2026-09-18,2026-09-24,16.5472,20.6662,30.64,1.215,Bakso Kecil,High Demand
-4,Random Forest,2026-09-18,2026-09-24,16.7208,20.2913,30.96,0.4515,Bakso Kecil,High Demand
-4,LSTM (Deep Learning),2026-09-18,2026-09-24,15.3931,19.4037,28.51,-0.468,Bakso Kecil,High Demand
-4,MLP (Neural Net),2026-09-18,2026-09-24,15.9578,20.2789,29.55,-1.988,Bakso Kecil,High Demand
-4,Croston (SBA),2026-09-18,2026-09-24,15.7935,21.194,29.25,-8.5547,Bakso Kecil,High Demand
+4,LSTM,2026-09-18,2026-09-24,15.3931,19.4037,28.51,-0.468,Bakso Kecil,High Demand
 1,Seasonal Naive,2026-08-28,2026-09-03,1.4286,1.6903,90.91,0.5714,Bakso Telur Asin,Medium Demand
-1,Holt-Winters ETS,2026-08-28,2026-09-03,1.0828,1.3505,68.9,0.8916,Bakso Telur Asin,Medium Demand
 1,SARIMA,2026-08-28,2026-09-03,1.3765,1.6383,87.59,0.8146,Bakso Telur Asin,Medium Demand
 1,SARIMAX,2026-08-28,2026-09-03,1.1992,1.4669,76.31,0.9333,Bakso Telur Asin,Medium Demand
-1,LightGBM,2026-08-28,2026-09-03,1.1987,1.4544,76.28,0.9148,Bakso Telur Asin,Medium Demand
-1,Random Forest,2026-08-28,2026-09-03,1.0519,1.3868,66.94,1.0519,Bakso Telur Asin,Medium Demand
-1,LSTM (Deep Learning),2026-08-28,2026-09-03,1.9546,2.2079,124.38,1.7681,Bakso Telur Asin,Medium Demand
-1,MLP (Neural Net),2026-08-28,2026-09-03,1.2222,1.5592,77.77,1.021,Bakso Telur Asin,Medium Demand
-1,Croston (SBA),2026-08-28,2026-09-03,1.0899,1.4074,69.36,0.5544,Bakso Telur Asin,Medium Demand
+1,LSTM,2026-08-28,2026-09-03,1.9546,2.2079,124.38,1.7681,Bakso Telur Asin,Medium Demand
 2,Seasonal Naive,2026-09-04,2026-09-10,1.4286,1.6903,76.92,-0.2857,Bakso Telur Asin,Medium Demand
-2,Holt-Winters ETS,2026-09-04,2026-09-10,0.7391,0.9849,39.8,0.1225,Bakso Telur Asin,Medium Demand
 2,SARIMA,2026-09-04,2026-09-10,0.5166,0.6436,27.81,0.2487,Bakso Telur Asin,Medium Demand
 2,SARIMAX,2026-09-04,2026-09-10,0.9065,1.0723,48.81,0.4797,Bakso Telur Asin,Medium Demand
-2,LightGBM,2026-09-04,2026-09-10,1.3175,1.5297,70.94,0.9818,Bakso Telur Asin,Medium Demand
-2,Random Forest,2026-09-04,2026-09-10,1.3522,1.5688,72.81,1.0697,Bakso Telur Asin,Medium Demand
-2,LSTM (Deep Learning),2026-09-04,2026-09-10,0.788,0.8972,42.43,0.5568,Bakso Telur Asin,Medium Demand
-2,MLP (Neural Net),2026-09-04,2026-09-10,1.0083,1.3464,54.29,0.2103,Bakso Telur Asin,Medium Demand
-2,Croston (SBA),2026-09-04,2026-09-10,0.5072,0.6402,27.31,-0.0406,Bakso Telur Asin,Medium Demand
+2,LSTM,2026-09-04,2026-09-10,0.788,0.8972,42.43,0.5568,Bakso Telur Asin,Medium Demand
 3,Seasonal Naive,2026-09-11,2026-09-17,0.8571,1.069,40.0,-0.2857,Bakso Telur Asin,Medium Demand
-3,Holt-Winters ETS,2026-09-11,2026-09-17,0.5074,0.8277,23.68,-0.2793,Bakso Telur Asin,Medium Demand
 3,SARIMA,2026-09-11,2026-09-17,0.4839,0.8581,22.58,-0.1774,Bakso Telur Asin,Medium Demand
 3,SARIMAX,2026-09-11,2026-09-17,0.625,0.8552,29.17,0.0591,Bakso Telur Asin,Medium Demand
-3,LightGBM,2026-09-11,2026-09-17,0.9899,1.0131,46.19,0.6154,Bakso Telur Asin,Medium Demand
-3,Random Forest,2026-09-11,2026-09-17,0.9651,1.1184,45.04,0.4946,Bakso Telur Asin,Medium Demand
-3,LSTM (Deep Learning),2026-09-11,2026-09-17,0.9192,0.9961,42.89,0.5555,Bakso Telur Asin,Medium Demand
-3,MLP (Neural Net),2026-09-11,2026-09-17,0.4609,0.6749,21.51,0.0001,Bakso Telur Asin,Medium Demand
-3,Croston (SBA),2026-09-11,2026-09-17,0.5743,0.9024,26.8,-0.3469,Bakso Telur Asin,Medium Demand
+3,LSTM,2026-09-11,2026-09-17,0.9192,0.9961,42.89,0.5555,Bakso Telur Asin,Medium Demand
 4,Seasonal Naive,2026-09-18,2026-09-24,1.5714,1.8898,68.75,-0.1429,Bakso Telur Asin,Medium Demand
-4,Holt-Winters ETS,2026-09-18,2026-09-24,1.1808,1.4095,51.66,-0.3703,Bakso Telur Asin,Medium Demand
 4,SARIMA,2026-09-18,2026-09-24,1.0988,1.3787,48.07,-0.2771,Bakso Telur Asin,Medium Demand
 4,SARIMAX,2026-09-18,2026-09-24,1.098,1.2726,48.04,-0.0362,Bakso Telur Asin,Medium Demand
-4,LightGBM,2026-09-18,2026-09-24,1.398,1.6255,61.16,-0.0138,Bakso Telur Asin,Medium Demand
-4,Random Forest,2026-09-18,2026-09-24,1.439,1.6057,62.95,-0.0115,Bakso Telur Asin,Medium Demand
-4,LSTM (Deep Learning),2026-09-18,2026-09-24,1.2572,1.4706,55.0,0.3711,Bakso Telur Asin,Medium Demand
-4,MLP (Neural Net),2026-09-18,2026-09-24,1.4575,1.6564,63.77,0.3464,Bakso Telur Asin,Medium Demand
-4,Croston (SBA),2026-09-18,2026-09-24,1.1688,1.4277,51.14,-0.3463,Bakso Telur Asin,Medium Demand
+4,LSTM,2026-09-18,2026-09-24,1.2572,1.4706,55.0,0.3711,Bakso Telur Asin,Medium Demand
 1,Seasonal Naive,2026-08-28,2026-09-03,0.1429,0.378,100.0,0.1429,Mie Spicy Barbeque,Low Demand
-1,Holt-Winters ETS,2026-08-28,2026-09-03,0.0838,0.1133,100.0,0.0838,Mie Spicy Barbeque,Low Demand
 1,SARIMA,2026-08-28,2026-09-03,0.027,0.0716,100.0,0.027,Mie Spicy Barbeque,Low Demand
 1,SARIMAX,2026-08-28,2026-09-03,0.3422,0.3501,100.0,0.3422,Mie Spicy Barbeque,Low Demand
-1,LightGBM,2026-08-28,2026-09-03,0.3383,0.346,100.0,0.3383,Mie Spicy Barbeque,Low Demand
-1,Random Forest,2026-08-28,2026-09-03,0.3278,0.3466,100.0,0.3278,Mie Spicy Barbeque,Low Demand
-1,LSTM (Deep Learning),2026-08-28,2026-09-03,0.3345,0.3345,100.0,0.3345,Mie Spicy Barbeque,Low Demand
-1,MLP (Neural Net),2026-08-28,2026-09-03,0.283,0.2985,100.0,0.283,Mie Spicy Barbeque,Low Demand
-1,Croston (SBA),2026-08-28,2026-09-03,0.2124,0.2124,100.0,0.2124,Mie Spicy Barbeque,Low Demand
+1,LSTM,2026-08-28,2026-09-03,0.3345,0.3345,100.0,0.3345,Mie Spicy Barbeque,Low Demand
 2,Seasonal Naive,2026-09-04,2026-09-10,0.1429,0.378,100.0,-0.1429,Mie Spicy Barbeque,Low Demand
-2,Holt-Winters ETS,2026-09-04,2026-09-10,0.1871,0.3664,130.94,-0.0811,Mie Spicy Barbeque,Low Demand
 2,SARIMA,2026-09-04,2026-09-10,0.1429,0.378,100.0,-0.1429,Mie Spicy Barbeque,Low Demand
 2,SARIMAX,2026-09-04,2026-09-10,0.3645,0.3852,255.13,0.1866,Mie Spicy Barbeque,Low Demand
-2,LightGBM,2026-09-04,2026-09-10,0.3398,0.4027,237.85,0.1114,Mie Spicy Barbeque,Low Demand
-2,Random Forest,2026-09-04,2026-09-10,0.3312,0.4031,231.87,0.0983,Mie Spicy Barbeque,Low Demand
-2,LSTM (Deep Learning),2026-09-04,2026-09-10,0.3252,0.3653,227.67,0.1162,Mie Spicy Barbeque,Low Demand
-2,MLP (Neural Net),2026-09-04,2026-09-10,0.2915,0.3894,204.02,0.0581,Mie Spicy Barbeque,Low Demand
-2,Croston (SBA),2026-09-04,2026-09-10,0.2945,0.3568,206.18,0.0695,Mie Spicy Barbeque,Low Demand
+2,LSTM,2026-09-04,2026-09-10,0.3252,0.3653,227.67,0.1162,Mie Spicy Barbeque,Low Demand
 3,Seasonal Naive,2026-09-11,2026-09-17,0.2857,0.5345,200.0,0.0,Mie Spicy Barbeque,Low Demand
-3,Holt-Winters ETS,2026-09-11,2026-09-17,0.1464,0.311,102.47,-0.0853,Mie Spicy Barbeque,Low Demand
 3,SARIMA,2026-09-11,2026-09-17,0.1697,0.3846,118.82,-0.116,Mie Spicy Barbeque,Low Demand
 3,SARIMAX,2026-09-11,2026-09-17,0.3708,0.3959,259.54,0.1823,Mie Spicy Barbeque,Low Demand
-3,LightGBM,2026-09-11,2026-09-17,0.3717,0.4179,260.22,0.1578,Mie Spicy Barbeque,Low Demand
-3,Random Forest,2026-09-11,2026-09-17,0.3105,0.3611,217.32,0.1023,Mie Spicy Barbeque,Low Demand
-3,LSTM (Deep Learning),2026-09-11,2026-09-17,0.4023,0.4145,281.58,0.2216,Mie Spicy Barbeque,Low Demand
-3,MLP (Neural Net),2026-09-11,2026-09-17,0.377,0.4063,263.88,0.1873,Mie Spicy Barbeque,Low Demand
-3,Croston (SBA),2026-09-11,2026-09-17,0.2742,0.3523,191.91,0.041,Mie Spicy Barbeque,Low Demand
+3,LSTM,2026-09-11,2026-09-17,0.4023,0.4145,281.58,0.2216,Mie Spicy Barbeque,Low Demand
 4,Seasonal Naive,2026-09-18,2026-09-24,0.4286,0.6547,150.0,-0.1429,Mie Spicy Barbeque,Low Demand
-4,Holt-Winters ETS,2026-09-18,2026-09-24,0.3215,0.5239,112.52,-0.2307,Mie Spicy Barbeque,Low Demand
 4,SARIMA,2026-09-18,2026-09-24,0.3124,0.5392,109.36,-0.259,Mie Spicy Barbeque,Low Demand
 4,SARIMAX,2026-09-18,2026-09-24,0.4186,0.454,146.52,0.0345,Mie Spicy Barbeque,Low Demand
-4,LightGBM,2026-09-18,2026-09-24,0.4603,0.5008,161.09,0.0317,Mie Spicy Barbeque,Low Demand
-4,Random Forest,2026-09-18,2026-09-24,0.5262,0.5777,184.18,0.0819,Mie Spicy Barbeque,Low Demand
-4,LSTM (Deep Learning),2026-09-18,2026-09-24,0.4189,0.4592,146.63,0.0103,Mie Spicy Barbeque,Low Demand
-4,MLP (Neural Net),2026-09-18,2026-09-24,0.5114,0.5578,179.01,0.0738,Mie Spicy Barbeque,Low Demand
-4,Croston (SBA),2026-09-18,2026-09-24,0.3633,0.4637,127.17,-0.1046,Mie Spicy Barbeque,Low Demand
+4,LSTM,2026-09-18,2026-09-24,0.4189,0.4592,146.63,0.0103,Mie Spicy Barbeque,Low Demand
 1,Seasonal Naive,2026-08-28,2026-09-03,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-1,Holt-Winters ETS,2026-08-28,2026-09-03,0.0152,0.0242,100.0,0.0152,Bakso Beranak,Sparse Demand
 1,SARIMA,2026-08-28,2026-09-03,0.0087,0.0087,100.0,0.0087,Bakso Beranak,Sparse Demand
 1,SARIMAX,2026-08-28,2026-09-03,0.0089,0.014,100.0,0.0089,Bakso Beranak,Sparse Demand
-1,LightGBM,2026-08-28,2026-09-03,0.0038,0.0041,100.0,0.0038,Bakso Beranak,Sparse Demand
-1,Random Forest,2026-08-28,2026-09-03,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-1,LSTM (Deep Learning),2026-08-28,2026-09-03,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-1,MLP (Neural Net),2026-08-28,2026-09-03,0.0283,0.055,100.0,0.0283,Bakso Beranak,Sparse Demand
-1,Croston (SBA),2026-08-28,2026-09-03,0.3361,0.3361,100.0,0.3361,Bakso Beranak,Sparse Demand
+1,LSTM,2026-08-28,2026-09-03,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
 2,Seasonal Naive,2026-09-04,2026-09-10,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-2,Holt-Winters ETS,2026-09-04,2026-09-10,0.0152,0.0241,100.0,0.0152,Bakso Beranak,Sparse Demand
 2,SARIMA,2026-09-04,2026-09-10,0.0084,0.0084,100.0,0.0084,Bakso Beranak,Sparse Demand
 2,SARIMAX,2026-09-04,2026-09-10,0.0087,0.0137,100.0,0.0087,Bakso Beranak,Sparse Demand
-2,LightGBM,2026-09-04,2026-09-10,0.0037,0.004,100.0,0.0037,Bakso Beranak,Sparse Demand
-2,Random Forest,2026-09-04,2026-09-10,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-2,LSTM (Deep Learning),2026-09-04,2026-09-10,0.0004,0.0004,100.0,0.0004,Bakso Beranak,Sparse Demand
-2,MLP (Neural Net),2026-09-04,2026-09-10,0.0318,0.0605,100.0,0.0318,Bakso Beranak,Sparse Demand
-2,Croston (SBA),2026-09-04,2026-09-10,0.3361,0.3361,100.0,0.3361,Bakso Beranak,Sparse Demand
+2,LSTM,2026-09-04,2026-09-10,0.0004,0.0004,100.0,0.0004,Bakso Beranak,Sparse Demand
 3,Seasonal Naive,2026-09-11,2026-09-17,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-3,Holt-Winters ETS,2026-09-11,2026-09-17,0.015,0.0238,100.0,0.015,Bakso Beranak,Sparse Demand
 3,SARIMA,2026-09-11,2026-09-17,0.0081,0.0082,100.0,0.0081,Bakso Beranak,Sparse Demand
 3,SARIMAX,2026-09-11,2026-09-17,0.0084,0.0132,100.0,0.0084,Bakso Beranak,Sparse Demand
-3,LightGBM,2026-09-11,2026-09-17,0.0035,0.0038,100.0,0.0035,Bakso Beranak,Sparse Demand
-3,Random Forest,2026-09-11,2026-09-17,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-3,LSTM (Deep Learning),2026-09-11,2026-09-17,0.045,0.0457,100.0,0.045,Bakso Beranak,Sparse Demand
-3,MLP (Neural Net),2026-09-11,2026-09-17,0.0262,0.0556,100.0,0.0262,Bakso Beranak,Sparse Demand
-3,Croston (SBA),2026-09-11,2026-09-17,0.3361,0.3361,100.0,0.3361,Bakso Beranak,Sparse Demand
+3,LSTM,2026-09-11,2026-09-17,0.045,0.0457,100.0,0.045,Bakso Beranak,Sparse Demand
 4,Seasonal Naive,2026-09-18,2026-09-24,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-4,Holt-Winters ETS,2026-09-18,2026-09-24,0.0147,0.0234,100.0,0.0147,Bakso Beranak,Sparse Demand
 4,SARIMA,2026-09-18,2026-09-24,0.0079,0.0079,100.0,0.0079,Bakso Beranak,Sparse Demand
 4,SARIMAX,2026-09-18,2026-09-24,0.0082,0.0129,100.0,0.0082,Bakso Beranak,Sparse Demand
-4,LightGBM,2026-09-18,2026-09-24,0.0034,0.0037,100.0,0.0034,Bakso Beranak,Sparse Demand
-4,Random Forest,2026-09-18,2026-09-24,0.0,0.0,0.0,0.0,Bakso Beranak,Sparse Demand
-4,LSTM (Deep Learning),2026-09-18,2026-09-24,0.0432,0.0443,100.0,0.0432,Bakso Beranak,Sparse Demand
-4,MLP (Neural Net),2026-09-18,2026-09-24,0.0266,0.0566,100.0,0.0266,Bakso Beranak,Sparse Demand
-4,Croston (SBA),2026-09-18,2026-09-24,0.3361,0.3361,100.0,0.3361,Bakso Beranak,Sparse Demand
+4,LSTM,2026-09-18,2026-09-24,0.0432,0.0443,100.0,0.0432,Bakso Beranak,Sparse Demand
